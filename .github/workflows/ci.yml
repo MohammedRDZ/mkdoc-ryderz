@@ -21,10 +21,11 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install MkDocs and theme
+      - name: Install MkDocs + Themes + Plugins
         run: |
           pip install mkdocs
           pip install mkdocs-material
+          pip install mkdocs-git-revision-date-localized-plugin
 
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
