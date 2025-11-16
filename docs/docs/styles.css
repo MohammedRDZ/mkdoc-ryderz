@@ -1,0 +1,4 @@
+/* Verberg rechtsboven het kleine logo + tekst */
+.md-header__title {
+    display: none !important;
+}
