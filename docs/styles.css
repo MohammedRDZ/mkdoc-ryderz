@@ -1,4 +1,8 @@
-/* VERBERG het rechter logo + titel (secondary site name) */
-.md-header__topic {
+/* Verberg het rechter logo + titel volledig */
+.md-header__brand .md-header__title {
+    display: none !important;
+}
+
+.md-header__brand .md-logo {
     display: none !important;
 }
