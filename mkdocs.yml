@@ -1,0 +1,75 @@
+site_name: Broodje Roleplay
+site_description: 'Wet en regelgeving van Broodje roleplay'
+site_url: https://Broodjeroleplay.nl
+repo_url: 'http://github.com/LeafRoleplay/BroodjeRoleplay'
+repo_name: 'Broodje Roleplay'
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+    - navigation.sections
+    - navigation.expand
+    - navigation.footer
+  logo: Broodje.png
+  favicon: Broodje.png
+  palette:
+   # Palette toggle for light mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny 
+        name: Switch to light mode
+
+    # Palette toggle for dark mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    
+  language: nl
+
+  nav: 
+    - Home: index.md
+    - Broodje Team: team.md
+    - Algmene Regels: algemeen.md
+    - Onderwereld Regels: onderwereld.md
+
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/QF64rNa4cV
+    - icon: fontawesome/brands/tiktok
+      link: https://www.tiktok.com/@iiStormz
+  analytics:
+    provider: google
+    property: G-NV5M4K299L
+
+  consent:
+    title: Cookies
+    description: >- 
+      We gebruiken cookies om uw herhaalde bezoeken en voorkeuren te herkennen, en
+      om de effectiviteit van onze documentatie te meten en of gebruikers
+      vinden wat ze zoeken. Met uw toestemming helpt u ons om
+      onze documentatie te verbeteren.
+    actions:
+      - accept
+  
+copyright: Copyright &copy; 2025 Broodje Roleplay - Alle rechten voorbehouden.
+
+plugins:
+  - git-revision-date-localized:
+      type: timeago
+      time_zone: Europe/Amsterdam
+      locale: nl
+      fallback_to_build_date: false   
+  - search:
+      lang: nl
