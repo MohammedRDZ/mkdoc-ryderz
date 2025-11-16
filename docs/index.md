@@ -1,6 +1,6 @@
 # Ryderz Roleplay
 
-Welkom op de pagina van Ryderz Roleplay! In het menu aan de bovenkant vind je alle verschillende documenten die betrekking hebben op Broodje Roleplay.
+Welkom op de pagina van Ryderz Roleplay! In het menu aan de bovenkant vind je alle verschillende documenten die betrekking hebben op Ryderz Roleplay.
 
 ## Inhoud
 
