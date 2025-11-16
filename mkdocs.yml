@@ -18,8 +18,8 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.footer
-  logo: Broodje.png
-  favicon: Broodje.png
+  logo: logo.png
+  favicon: logo.png
   palette:
    # Palette toggle for light mode
     - scheme: slate
@@ -37,7 +37,7 @@ theme:
 
   nav: 
     - Home: index.md
-    - Broodje Team: team.md
+    - Ryderz Team: team.md
     - Algmene Regels: algemeen.md
     - Onderwereld Regels: onderwereld.md
 

@@ -1,6 +1,6 @@
-# Broodje Roleplay
+# Ryderz Roleplay
 
-Welkom op de pagina van Broodje Roleplay! In het menu aan de bovenkant vind je alle verschillende documenten die betrekking hebben op Broodje Roleplay.
+Welkom op de pagina van Ryderz Roleplay! In het menu aan de bovenkant vind je alle verschillende documenten die betrekking hebben op Broodje Roleplay.
 
 ## Inhoud
 
@@ -13,8 +13,8 @@ Welkom op de pagina van Broodje Roleplay! In het menu aan de bovenkant vind je a
 
 | **Server**             | **Beschrijving**              | **Link**                      |
 |------------------------|-------------------------------|-------------------------------|
-| **_Broodje Roleplay_**    | Main Discord van Broodje         |  [Join](https://discord.gg/QF64rNa4cV) |
-| **_Broodje Support_**     | Support Discord van Broodje      |  [Join](https://discord.gg/GEPAk344Nf) |
-| **_Broodje Onderwereld_** | Onderwereld Disscord van Broodje |  [Join](https://discord.gg/D2trrsqPKt) |
-| **_Broodje Overheid_**    | Overheid Discord van Broodje     |  [Join](https://discord.gg/KnvfV4FMA2) |
-| **_Broodje Speeltijd_**     | Speeltijd Discord van Broodje  |  [Join](https://discord.gg/xQzx6p6U6M) |
+| **_Ryderz Roleplay_**    | Main Discord van Ryderz         |  [Join](https://discord.gg/Awba9E5K8C) |
+| **_Ryderz Support_**     | Support Discord van Ryderz      |  [Join](https://discord.gg/39RqMHFn9W) |
+| **_Ryderz Onderwereld_** | Onderwereld Disscord van Ryderz |  [Join](https://discord.gg/dNVfmByjEM) |
+| **_Ryderz Overheid_**    | Overheid Discord van Ryderz     |  [Join](https://discord.gg/YtGswjwzX9) |
+| **_Ryderz Lounge_**     | Community  Discord van Ryderz    |  [Join](https://discord.gg/8YPtNvYmVy) |
