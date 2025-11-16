@@ -1,8 +1,8 @@
-site_name: Broodje Roleplay
-site_description: 'Wet en regelgeving van Broodje roleplay'
-site_url: https://Broodjeroleplay.nl
-repo_url: 'http://github.com/LeafRoleplay/BroodjeRoleplay'
-repo_name: 'Broodje Roleplay'
+site_name: Ryderz Roleplay
+site_description: 'Wet en regelgeving van Ryderz roleplay'
+site_url: https://Ryderzroleplay.nl
+repo_url: 'http://github.com/Ryderzroleplay/Ryderz-roleplay'
+repo_name: 'Ryderz Roleplay'
 theme:
   name: material
   features:
@@ -48,7 +48,7 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/QF64rNa4cV
     - icon: fontawesome/brands/tiktok
-      link: https://www.tiktok.com/@iiStormz
+      link: https://www.tiktok.com/@movibe
   analytics:
     provider: google
     property: G-NV5M4K299L
@@ -63,7 +63,7 @@ extra:
     actions:
       - accept
   
-copyright: Copyright &copy; 2025 Broodje Roleplay - Alle rechten voorbehouden.
+copyright: Copyright &copy; 2025 Ryderz Roleplay - Alle rechten voorbehouden.
 
 plugins:
   - git-revision-date-localized:
