@@ -1,3 +1,4 @@
-.md-header__button.md-logo {
+/* VERBERG het rechter logo + titel (secondary site name) */
+.md-header__topic {
     display: none !important;
 }
