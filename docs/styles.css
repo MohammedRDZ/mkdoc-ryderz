@@ -1,8 +1,4 @@
-/* Verberg het rechter logo + titel volledig */
-.md-header__brand .md-header__title {
-    display: none !important;
-}
-
-.md-header__brand .md-logo {
+/* Verberg rechter header-blok volledig */
+.md-header__brand {
     display: none !important;
 }
