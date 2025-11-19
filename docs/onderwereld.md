@@ -1,101 +1,108 @@
-# Onderwereld Regels - Gangregelementen
-
+# Onderwereld Regels – Gangreglementen
 
 ## **Binnenvallen (Raids)**
+* Maximaal **2 binnenvallen per dag**.
+* Minimaal **2 uur** tussen elke binnenval.
+* Elke binnenval moet gemotiveerd zijn met **bewijs** (video, screenshots, audio).
+* Bewijs moet **direct** naar de OWC worden gestuurd.
 
-* Je mag maximaal **2 keer per dag** een binnenval uitvoeren.
-* Er moet minimaal **2 uur** tussen elke binnenval zitten.
-
-* Elke binnenval moet onderbouwd worden met **bewijs** (video, screenshots of opnames).
-* Bewijs moet **direct** worden overlegd aan de OWC.
+---
 
 ## **Third-Party**
+* Als er **geen politie** aanwezig is → de overval mag gecounterd worden.
+* Als er **wel politie** aanwezig is → counteren is **verboden**.
 
-* Indien er **geen** Politie aanwezig is mag de overval gecounterd worden. 
-* Indien er **wel** Politie aanwezig is mag de overval **niet** gecounterd worden.
+---
 
 ## **Alliantiebeleid**
+* Elke gang mag **slechts één ally** hebben.
+* Meerdere samenwerkingen zijn **niet toegestaan**.
 
-* Je mag slechts **één bondgenootschap (ally)** hebben met een andere gang.
-* Meerdere samenwerkingen met andere gangs zijn **niet toegestaan**.
+---
 
 ## **Gijzeling & Marteling**
+* Een vijandig ganglid mag maximaal **30 minuten** worden vastgehouden.
+* Na 30 minuten moet de persoon **worden vrijgelaten of afgehandeld via RP**.
+* Marteling moet **RP-technisch realistisch** blijven.
 
-Je mag een lid van een andere gang maximaal **30 minuten** vasthouden in een cel of martelruimte.
-Daarna moet de persoon worden **vrijgelaten of correct verwerkt via RP**.
+---
 
 ## **F6 Menu Gebruik**
+* F6 mag **alleen** worden gebruikt wanneer de persoon **al fysiek aanwezig** is in het scenario.
+  * Denk aan boeien, fouilleren, escorteren.
+* Misbruik van het F6-menu = **directe gangstrike**.
+* F6 gebruiken in een **greenzone** = **directe gangstrike**.
 
-* F6 mag alleen gebruikt worden bij **overvallen en scenario’s** als je persoon al op locatie is.
-Denk hierbij aan handelingen zoals **boeien of fouilleren**.
-
-* Misbruik van het F6* menu = **directe gangstrike**
-* Gebruik van F6 in een **greenzone** = **directe gangstrike**
+---
 
 ## **Gangwar Regels**
+* Alleen leden met **minimaal 48 uur** in de gang mogen deelnemen.
+* Een gangwar moet vooraf worden **aangevraagd bij een OWC**.
+* De reden voor de war moet **duidelijk en logisch** zijn.
 
-* Alleen gangleden die **minimaal 48 uur** in de gang zitten, mogen meedoen aan een gangwar.
-* Een gangwar moet van tevoren worden **aangevraagd aan een OWC**.
+---
 
 ## **RDM (Random Deathmatch)**
+* **1 ganglid** betrokken = geen gangstrike.
+* **2 of meer gangleden** betrokken = gangstrike.
+* Hostages **zonder reden doodschieten** = gangstrike.
+* Iemand **doodschieten na rippen** = gangstrike.
+* Direct schieten **zonder RP-opbouw** = gangstrike.
+* Banden schieten + persoon afmaken met 2+ man **zonder RP** = gangstrike.
 
-*  **1 ganglid** betrokken bij RDM = geen gangstrike
-*  **2 of meer leden** betrokken = gangstrike
-*  **Hostages zonder reden doodschieten** = gangstrike
-*  **Iemand doodschieten na het rippen** = gangstrike
-*  **Combatgedrag (zoals direct schieten zonder RP)** = gangstrike
-*  **Zonder reden banden schieten en de persoon afmaken met 2 of meer personen** = gangstrike
+---
 
 ## **VDM (Vehicle Deathmatch)**
+* **1 ganglid** = geen gangstrike.
+* **2 of meer leden** = gangstrike.
 
-* **1 ganglid** betrokken bij VDM = geen gangstrike
-* **2 of meer leden** = gangstrike
+---
 
 ## **NVOL (No Value Of Life)**
+* **1 ganglid** = waarschuwing of geen strike.
+* **2 of meer leden** = gangstrike.
 
-* **1 ganglid** = geen gangstrike
-* **2 of meer leden** = gangstrike
+**Voorbeeld:**  
+Wegrijden terwijl je onder schot staat:  
+* **1e keer:** waarschuwing  
+* **2e keer:** gangstrike
 
-* Wegrijden terwijl je onder schot gehouden wordt:
-1e keer = **waarschuwing**
-2e keer = **gangstrike**
+---
 
 ## **FailRP**
+* Tijdens een achtervolging **vluchten naar je eigen gangterrein** = gangstrike.
+* **Hekken sluiten** terwijl je onder schot wordt gehouden = gangstrike.
+* Meerdere leden die FailRP plegen = gangstrike.
+* Zonder geldige reden binnendringen in **ganghuizen** = gangstrike.
+* **Tijdrekken** tijdens bedreiging is verboden — je moet **meewerken**.
 
-*  Tijdens een achtervolging **vluchten naar je gangterrein** = gangstrike
-*  Het **sluiten van hekken** terwijl je onder schot gehouden wordt = gangstrike
-*  **FailRP door meerdere gangleden** = gangstrike
-*  **Zonder geldige reden binnendringen in ganghuizen** = gangstrike
-*  **Tijdrekken** is niet toegestaan. Word je onder schot gehouden? Dan moet je **direct meewerken**.
+---
 
 ## **Metagaming**
+* In porto zitten zonder **oortje ingame** = gangstrike.
+* **Schermdelen in porto/oortje** = gangstrike.
 
-In porto zitten zonder **oortje ingame** = gangstrike
-**Schermdelen in oortje** = gangstrike
+---
 
 ## **Overige Regels**
 
-**Shootouts en ganggeweld**
+### **Shootouts & Ganggeweld**
+* Geen **random shootouts**.
+* Ganggeweld moet **altijd een RP–reden** hebben.
+* Binnenvallen op gangterrein mag **max 2 keer per dag** en moet altijd met **bewijs**.
 
-* Geen **random shootouts** – ganggeweld moet altijd een **RP* reden** hebben.
-* Binnenvallen op gangterrein mag maximaal **2 keer per dag**, met **sterk bewijs**.
-
-**Combat en logging**
-
+### **Combat & Logging**
 * **Combat logging** (uitloggen tijdens actie) = gangstrike.
 
-**Wapens, drugs en Rippen**
-
-* **Wapen*  en drugshandel** moet via RP verlopen – **geen OOC deals**.
+### **Wapens, Drugs & Rippen**
+* Wapen- en drugshandel moeten **via RP** verlopen — geen OOC deals.
 * **Rippen** mag alleen als de persoon:
+  * Een **holster** draagt, of  
+  * Een **masker** draagt, of  
+  * Een **bodyvest** draagt.  
+* Rippen zonder geldige reden = gangstrike.
 
-  * een **holster** draagt
-  * een **masker** draagt
-  * of een **bodyvest** draagt
-* Rippen zonder geldige reden = **gangstrike**.
-
-**Verraad en kleding**
-
-* **Verraad** binnen de gang moet via **realistische RP** verlopen.
-* Gangs moeten **herkenbaar zijn via kleding of accessoires**.
-* Het dragen van kleding van **andere gangs is verboden**, tenzij er een geldige RP* reden voor is.
+### **Verraad & Kleding**
+* Verraad binnen een gang moet via **realistische en opbouwende RP**.
+* Gangs moeten **herkenbare kleding** dragen.
+* Kleding van andere gangs dragen is **verboden**, tenzij er een geldige RP–reden is.

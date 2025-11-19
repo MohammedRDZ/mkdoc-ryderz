@@ -1,109 +1,131 @@
-# Algemene regels
+# Algemene Regels
 
 ## **Algemeen Gedrag**
-
 * Behandel alle spelers en staff met respect.
 * Ongepaste opmerkingen, haatspraak of beledigende taal zijn niet toegestaan.
 * Wees professioneel en vriendelijk in alle interacties, zowel in-game als in de chat.
+* Houd RP serieus en speel jouw karakter realistisch.
+
+---
 
 ## **New Life Rule (NLR)**
+* Wanneer je neervalt en de respawn-timer start, moet er een ambulance worden opgeroepen.
+* De ambulancier bepaalt of je levensvatbaar bent.
+* Bij een DOA (dead on arrival):
+  * Vergeet alles wat leidde tot je dood.
+  * Onderhoud geen wraak of connecties uit daarvoor.
+  * Speel een nieuw leven met gewist geheugen.
 
-* Wanneer je neervalt in de stad en de respawn-timer begint, moet er een ambulance worden opgeroepen.
-* De ambulancier bepaalt op basis van de situatie of je te redden bent. Als je dood wordt verklaard:
-   * Vergeet alles wat leidde tot je dood.
-   * Zoek geen wraak of oude connecties op.
-   * Speel een nieuw leven alsof je geheugen is gewist.
+---
 
 ## **Powergaming**
+* Het manipuleren van situaties waardoor anderen geen keuzevrijheid meer hebben, is verboden.
 
-Het manipuleren van situaties zodat anderen geen keuzevrijheid meer hebben.
+**Voorbeelden:**
+* Onrealistisch ontsnappen met voertuigen in smalle steegjes.
+* Doen alsof je politie bent zonder RP-reden.
+* Geen emoties tonen of zonder reden overgeven.
+* Onrealistisch veel RP-scenario’s achter elkaar uitvoeren zonder pauze.
 
-Voorbeelden:
-
-* Onrealistisch ontsnappen met grote voertuigen in smalle steegjes.
-* Zich voordoen als politieagent zonder RP-onderbouwing.
-* Zich direct overgeven zonder emotie of uitleg.
-* Onrealistisch veel overvallen plegen zonder pauze.
+---
 
 ## **Schelden & Grof Taalgebruik**
+* Schelden mag alleen **in karakter** en zonder iemand persoonlijk te kwetsen.
+* Taal gebaseerd op ziektes, gender, afkomst, beperking, religie of seksuele voorkeur is strikt verboden.
 
-Schelden is alleen toegestaan binnen karakter en zonder iemand te kwetsen.
-Taal gebaseerd op ziektes, genderidentiteit of seksuele voorkeur is ten strengste verboden.
+---
 
 ## **FailRP**
+**Voorbeelden:**
+* Wapens of zware items verkopen aan willekeurige personen.
+* Geheime locaties zomaar noemen of IC doorgeven.
+* Je bemoeien met situaties waarin je geen rol speelt.
+* Liegen tegen een ambulancier over je verwondingen.
+* Herhaaldelijk dezelfde acties uitvoeren zonder logische RP-pauze.
 
-Voorbeelden:
-
-* Vuurwapens verkopen aan vreemden of nieuwkomers.
-* Geheime locaties zomaar delen of doorgeven aan politie.
-* Je mengen in situaties waarin je geen rol speelt.
-* Je letsel liegen tegenover een ambulancier.
-* Herhaaldelijk dezelfde overval plegen zonder logische pauzes.
+---
 
 ## **Voertuigen als Wapens (VDM)**
+* Voertuigen mogen niet als wapens gebruikt worden, tenzij dit logisch en bewezen RP is.
 
-Voertuigen mogen niet als wapens gebruikt worden.
+---
 
 ## **Overheidsvoertuigen**
+* Het stelen van voertuigen van whitelisted banen (Politie/KMar/Brandweer/Ambulance) is verboden,  
+  **tenzij** er een **sterke RP-reden** is (bijv. een vriend zit achterin vastgeketend).
 
-Het stelen van voertuigen van whitelisted jobs (zoals politie/KMar) is verboden, tenzij met goede RP (bijv. vriend zit geboeid achterin).
+---
 
 ## **Stemherkenning**
+* Je mag mensen herkennen aan hun stem, tenzij zij bewust een andere stem gebruiken.
+* Gezichtsbedekking = onherkenbaar.
+* Voice changers zijn toegestaan als ze realistisch zijn en niet storend.
 
-* Spelers mogen worden herkend aan hun stem, tenzij deze bewust is veranderd.
-* Gezichtsbedekking = volledig gezicht verbergen = onherkenbaar.
-* Voice changers zijn toegestaan, zolang ze realistisch zijn en niet storend.
+---
 
-## **Hacken**
+## **Hacken / Cheats**
+* Gebruik van cheats, mod menus, injectors, trainers of andere software = **directe (perma)ban**.
 
-* Gebruik van cheatsoftware zoals mod menus leidt tot directe en zware straffen.
+---
 
 ## **Exploits**
+* Het misbruiken van bugs, dupes, glitches of crosshair exploit is strafbaar.
+* Emote abuse valt ook onder exploit misbruik.
+* Bugs moeten direct worden gemeld.
 
-* Bugs misbruiken zonder te melden is strafbaar.
-* Emote abuse, duplication glitches, of gebruik van crosshair exploits zijn verboden.
+---
 
 ## **Meta-gaming**
+* OOC-informatie gebruiken in IC-situaties is verboden.
+* Streams, Discord-informatie, screenshots en livestreams gelden als OOC.
 
-OOC (Out of Character) informatie gebruiken in RP is niet toegestaan.
+---
 
 ## **Random Deathmatch (RDM)**
-
-* Doden zonder geldige RP-reden is verboden.
+* Het doden of aanvallen van een speler zonder geldige RP-reden is verboden.
 * Schieten op burgers zonder aanleiding is RDM.
-* Campen bij greenzones om te moorden is niet toegestaan.
+* Greenzone-campen voor kills is niet toegestaan.
+
+---
 
 ## **Combat Logging**
+* De stad verlaten tijdens RP is verboden.
+* AFK gaan langer dan 5 minuten in een RP-situatie is strafbaar.
 
-* Stad verlaten tijdens RP zonder geldige reden.
-* AFK gaan voor langer dan 5 minuten in een RP-situatie = strafbaar.
+---
 
 ## **No Value of Life (NVOL)**
+* Je moet altijd spelen alsof jouw leven waarde heeft.
+* Onrealistische acties die je leven niet respecteren zijn niet toegestaan.
+  (Bijv. met een mes op een geweer afrennen.)
 
-* Handel alsof je leven en bezittingen waarde hebben.
-* Geen domme of onrealistische acties uitvoeren die dit ondermijnen.
+---
 
 ## **Microfoonplicht**
+* Een werkende microfoon is verplicht.
+* Zonder microfoon = kick.  
+  Je mag terugkomen zodra deze werkt.
 
-Een werkende microfoon is verplicht.
-Zonder mic = kick. Je mag pas terugkomen met een werkende mic.
+---
 
 ## **Startergeld Overdragen**
+* Het geven of ontvangen van startergeld tussen accounts is verboden.
+* Ontvangen geld/items worden verwijderd en kunnen bestraft worden.
 
-* Het overdragen van startergeld of andere middelen tussen accounts is verboden.
-* Ontvangen geld/items worden verwijderd en bestraft.
+---
 
 ## **Standaard Outfit**
+* Bij het maken van jouw personage moet je kleding aanpassen.
+* Standaard-outfits zijn niet toegestaan.
 
-* Pas je kleding aan bij character creatie.
-* Het dragen van de standaard-outfit is niet toegestaan.
+---
 
 ## **Streamsnipen**
+* Informatie uit livestreams gebruiken is OOC-misbruik en zwaar strafbaar.
+* Dit valt onder meta-gaming.
 
-* Het gebruiken van informatie uit livestreams = OOC misbruik.
-Dit is ten strengste verboden en wordt bestraft als meta-gaming.
+---
 
 ## **IRL Trading**
-
-* Geen enkele vorm van echte geldtransacties in ruil voor in-game geld, items of diensten is toegestaan.
-* Alleen aankopen via de officiële donatiestore zijn toegestaan.
+* Het kopen of verkopen van in-game geld, items of diensten voor echt geld is verboden.
+* Alleen de officiële donatiestore is toegestaan.
