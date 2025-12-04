@@ -13,8 +13,8 @@ Welkom op de pagina van Ryderz Roleplay! In het menu aan de bovenkant vind je al
 
 | **Server**             | **Beschrijving**              | **Link**                      |
 |------------------------|-------------------------------|-------------------------------|
-| **_Ryderz Roleplay_**    | Main Discord van Ryderz         |  [Join](https://discord.gg/Awba9E5K8C) |
+| **_Ryderz Roleplay_**    | Main Discord van Ryderz         |  [Join](https://discord.gg/akvhh7dREq) |
 | **_Ryderz Support_**     | Support Discord van Ryderz      |  [Join](https://discord.gg/39RqMHFn9W) |
 | **_Ryderz Onderwereld_** | Onderwereld Disscord van Ryderz |  [Join](https://discord.gg/dNVfmByjEM) |
-| **_Ryderz Overheid_**    | Overheid Discord van Ryderz     |  [Join](https://discord.gg/YtGswjwzX9) |
+| **_Ryderz Overheid_**    | Overheid Discord van Ryderz     |  [Join](https://discord.gg/n9Wp5Wf9Tn) |
 | **_Ryderz Lounge_**     | Community  Discord van Ryderz    |  [Join](https://discord.gg/8YPtNvYmVy) |
