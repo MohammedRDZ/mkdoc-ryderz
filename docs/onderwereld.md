@@ -1,4 +1,4 @@
-# Onderwereld Regels – Gangreglementen
+# Onderwereld Regels 
 
 ## **Binnenvallen (Raids)**
 * Maximaal **2 binnenvallen per dag**.
