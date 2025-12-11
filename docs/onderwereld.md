@@ -1,4 +1,4 @@
-# Onderwereld & Overval Regels – Final Version
+# Onderwereld & Overval
 
 ---
 
