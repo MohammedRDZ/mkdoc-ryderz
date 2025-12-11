@@ -4,26 +4,25 @@
 
 ## 1. Binnenvallen (Raids)
 - Maximaal 2 binnenvallen per dag per gang.
-- Minimaal 2 uur cooldown tussen binnenvallen.
-- Bewijs (video, screenshot, audio) is verplicht.
-- Bewijs moet direct naar de OWC worden gestuurd.
+- Minimaal 2 uur cooldown.
+- Bewijs (video/screenshot/audio) verplicht.
+- Bewijs moet direct naar de OWC.
 - Geen bewijs = gangstrike.
 
 ---
 
 ## 2. Third-Party
-**Geen politie aanwezig:**  
-- Counteren is toegestaan.
+Geen politie:
+- Counteren toegestaan.
 
-**Wel politie aanwezig:**  
-- Counteren is verboden.  
-- Overtreding = gangstrike.
+Wel politie:
+- Counteren verboden → gangstrike.
 
 ---
 
 ## 3. Alliantiebeleid
-- Elke gang mag slechts één ally hebben.
-- Samenwerkingen buiten de ally zijn verboden.
+- Maximaal één ally per gang.
+- Extra of geheime samenwerkingen zijn niet toegestaan.
 - Overtreding = gangstrike.
 
 ---
@@ -37,30 +36,30 @@
 ---
 
 ## 5. F6 Gebruik
-- Alleen gebruiken wanneer iemand fysiek aanwezig is.
-- Misbruik F6 = gangstrike.
-- F6 in greenzone = gangstrike.
-- F6 gebruiken om iemand te buggen = zware sanctie.
+- Alleen gebruiken wanneer de persoon fysiek aanwezig is.
+- F6 misbruik = gangstrike.
+- F6 in greenzone gebruiken = gangstrike.
+- F6 gebruiken om iemand te buggen/glitchen = zware sanctie.
 
 ---
 
 ## 6. Gangwars
-- Leden moeten minimaal 48 uur speeltijd hebben.
-- OWC moet de war vooraf goedkeuren.
-- Reden moet logisch zijn.
+- Minimaal 48 uur speeltijd vereist.
+- War moet vooraf door OWC goedgekeurd worden.
+- Reden moet logisch en RP-verantwoord zijn.
 - Random shootouts starten = gangstrike.
 
 ---
 
 ## 7. RDM (Random Deathmatch)
-- 1 lid = individuele straf.
+- 1 lid betrokken = individuele straf.
 - 2 of meer leden = gangstrike.
 
 Verboden:
-- Schieten zonder RP.
-- Hostages doden zonder reden.
-- Doden na rippen zonder RP.
-- Met meerdere leden iemand uitschakelen zonder reden.
+- Schieten zonder RP-opbouw.
+- Hostages zonder reden doden.
+- Iemand doden na rippen zonder RP.
+- Met meerdere leden iemand uitschakelen zonder RP.
 
 ---
 
@@ -72,15 +71,15 @@ Verboden:
 ---
 
 ## 9. NVOL (No Value Of Life)
-- Weggaan terwijl men onder schot staat = NVOL.
-- 1e keer waarschuwing, 2e keer gangstrike.
+- Onder schot toch wegrennen = NVOL.
+- Eerste keer waarschuwing, tweede keer gangstrike.
 - Groeps-NVOL = directe gangstrike.
 
 ---
 
 ## 10. FailRP
 - Vluchten naar gangterrein tijdens achtervolging.
-- Hekken sluiten onder schot.
+- Hek sluiten onder schot.
 - Scenario tijdrekken.
 - Ganghuizen binnendringen zonder reden.
 - Groeps-FailRP = gangstrike.
@@ -88,43 +87,43 @@ Verboden:
 ---
 
 ## 11. Metagaming
-- Porto zonder IC-oortje = gangstrike.
-- Schermdelen of stream-meekijken = directe gangstrike.
-- OOC-informatie IC gebruiken = overtreding.
+- Porto gebruiken zonder IC-oortje = gangstrike.
+- Schermdelen/stream-meekijken = directe gangstrike.
+- OOC-informatie IC gebruiken = zware overtreding.
 
 ---
 
 ## 12. Greenzone Regels
-Verboden:
+Verboden in greenzones:
 - Ripperen  
 - Gijzelen  
 - Geweld  
 - Wapens trekken  
 - Timeren  
-- Intimidatie
+- Intimidatie  
 
-Greenzone-overtreding = directe gangstrike.
+Overtreding = directe gangstrike.
 
 ---
 
 ## 13. Overvallen (Met Minimale Hostages & Wapens)
+Overvallen moeten volledig RP-technisch logisch zijn en realistisch worden opgebouwd.
 
 ---
 
 ## 14. Overval Regels – Algemene Regels
 - Politie moet binnen 10 minuten aankoppelen.
-- Doet politie dit niet → overvallers mogen vrij vertrekken zonder achtervolging.
-- Na aankoppelen mag niemand (gangs/burgers) zich mengen.
+- Doet politie dit niet → overvallers mogen weg zonder achtervolging.
+- Na aankoppeling mag niemand zich mengen.
 - Hostage-RP moet serieus en realistisch blijven.
 
 ---
 
 ## 15. Minimale Hostage- & Wapenvereisten per Overval
-Elke overval moet minimaal onderstaande middelen inzetten om RP geloofwaardig te maken.
 
 ### 15.1 Winkeloverval
 - Minimaal 1 hostage.
-- Minimaal 1 wapen (pistool of melee).
+- Minimaal 1 pistool of melee-wapen.
 
 ### 15.2 Kleine Bank
 - Minimaal 2 hostages.
@@ -138,23 +137,23 @@ Elke overval moet minimaal onderstaande middelen inzetten om RP geloofwaardig te
 
 ### 15.4 Grote Bank
 - Minimaal 4 hostages.
-- Minimaal 2 automatic wapens.
-- Minimaal 1 pistool of melee-wapen.
+- Minimaal 2 automatics.
+- Minimaal 1 pistool of melee.
 
 ---
 
 ## 16. Hostage Regels
 - Hostage blijft op dezelfde locatie (binnen blijft binnen, buiten blijft buiten).
-- Geen positie-wissel toegestaan.
+- Geen positie-wissels.
 - Maximaal 20 minuten vasthouden.
 - Hostage moet RP serieus spelen.
-- Geen troll of sabotage.
+- Geen sabotage of trollen.
 
 ---
 
 ## 17. Hulpdiensten als Hostage
-- Mag alleen als de instantie genoeg personeel heeft om RP voort te zetten.
-- Politie met 16 mensen → 2 hostages toegestaan.
+- Alleen toegestaan wanneer de instantie genoeg personeel heeft.
+- Politie met 16 medewerkers → 2 hostages toegestaan.
 - Hostages op werkplekken (MRB, ziekenhuis, ANWB) zijn verboden.
 
 ---
@@ -162,31 +161,31 @@ Elke overval moet minimaal onderstaande middelen inzetten om RP geloofwaardig te
 ## 18. Shootouts & Ganggeweld
 - Er moet altijd een geldige RP-reden zijn.
 - Random shootouts → gangstrike.
-- Binnenvallen op gangterrein → maximaal 2 per dag, altijd met bewijs.
+- Binnenvallen op gangterrein → maximaal 2 per dag (met bewijs).
 
 ---
 
 ## 19. Combat Logging
 - De stad verlaten tijdens actief RP = directe gangstrike.
-- Na een crash moet men direct terugkomen en RP afmaken.
+- Bij crash moet men direct terugkeren en RP afmaken.
 
 ---
 
 ## 20. Wapens, Drugs & Rippen
-Rippen mag alleen wanneer persoon:
-- Een holster,
-- Een masker,
+Rippen is toegestaan wanneer de persoon:
+- Een holster draagt,
+- Of een masker draagt,
 - Of een bodyvest draagt.
 
 Verboden:
 - Rippen zonder RP.
-- OOC-deals.
-- Ripperen in greenzones.
+- OOC-handel.
+- Rippen in een greenzone (directe gangstrike).
 
 ---
 
 ## 21. Verraad & Gangidentiteit
-- Verraad moet logisch zijn en via RP worden gespeeld.
+- Verraad moet logisch zijn en met RP worden opgebouwd.
 - Gangs moeten herkenbare kleding dragen.
 - Kleding van andere gangs dragen zonder RP is verboden.
 
