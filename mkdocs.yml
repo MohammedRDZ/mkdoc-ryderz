@@ -1,6 +1,6 @@
 site_name: Ryderz Roleplay
 site_description: 'Wet en regelgeving van Ryderz roleplay'
-site_url: https://Ryderzroleplay.nl
+site_url: https://apv.ryderzrp.nl
 repo_url: 'http://github.com/Ryderzroleplay/Ryderz-roleplay'
 repo_name: 'Ryderz Roleplay'
 theme:
@@ -46,9 +46,9 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/QF64rNa4cV
+      link: https://discord.gg/akvhh7dREq
     - icon: fontawesome/brands/tiktok
-      link: https://www.tiktok.com/@movibe
+      link: https://www.tiktok.com/@rdyzmo
   analytics:
     provider: google
     property: G-NV5M4K299L
