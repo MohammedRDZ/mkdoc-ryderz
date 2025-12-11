@@ -1,4 +1,4 @@
-# Onderwereld Regels
+# Onderwereld & Overval Regels
 
 ---
 
@@ -6,7 +6,7 @@
 !!! danger "Regels"
     - Maximaal **2 binnenvallen per dag** per gang.
     - Minimaal **2 uur cooldown** tussen elke binnenval.
-    - Elke binnenval moet worden onderbouwd met **duidelijk bewijs** (video, screenshot, audio).
+    - Elke binnenval moet onderbouwd zijn met **duidelijk bewijs** (video, screenshot, audio).
     - Bewijs moet **direct** naar de OWC worden gestuurd.
     - Geen bewijs → **directe gangstrike**.
 
@@ -104,7 +104,7 @@
 ---
 
 ## 12. Greenzone Regels
-!!! success "Greenzone = 100% crimineel-vrij gebied"
+!!! success "Greenzone = volledig crimineel-vrij"
     Verboden:
     - Ripperen  
     - Gijzelen  
@@ -117,11 +117,11 @@
 
 ---
 
-# Overval Regels
+## 13. Overval Regels
 
 ---
 
-## 1. Algemene Regels
+### 13.1 Algemene Regels
 !!! note ""
     - Politie moet binnen **10 minuten** aankoppelen.
     - Doen zij dit niet → overvallers mogen **weg zonder achtervolging**.
@@ -130,26 +130,30 @@
 
 ---
 
-## 2. Hostage & Wapenlimieten per Overval
-
-### 2.1 Winkeloverval
+### 13.2 Winkeloverval
 !!! info "Limieten"
     - Maximaal **1 hostage**
     - Alleen **melee wapens** toegestaan
 
-### 2.2 Kleine Bank
+---
+
+### 13.3 Kleine Bank
 !!! info "Limieten"
     - Maximaal **3 hostages**
     - **1 automatic wapen**
     - **1 pistool**
 
-### 2.3 Juwelier
+---
+
+### 13.4 Juwelier
 !!! info "Limieten"
     - Maximaal **4 hostages**
     - **1 automatic**
     - **1 pistool**
 
-### 2.4 Grote Bank
+---
+
+### 13.5 Grote Bank
 !!! info "Limieten"
     - Maximaal **5 hostages**
     - **2 automatics**
@@ -157,7 +161,7 @@
 
 ---
 
-## 3. Hostage Regels
+### 13.6 Hostage Regels
 !!! warning ""
     - Hostages blijven **op dezelfde locatie** (binnen blijft binnen, buiten blijft buiten).
     - Hostage mag **niet wisselen van positie**.
@@ -166,7 +170,7 @@
 
 ---
 
-## 4. Hulpdiensten als Hostage
+### 13.7 Hulpdiensten als Hostage
 !!! danger ""
     Toegestaan wanneer de instantie **minimaal 8 leden in dienst** heeft.
 
@@ -178,7 +182,7 @@
 
 ---
 
-## 5. Shootouts & Ganggeweld
+### 13.8 Shootouts & Ganggeweld
 !!! note ""
     - Ganggeweld moet **altijd gebaseerd zijn op RP**.
     - Random shootouts = **directe gangstrike**.
@@ -186,13 +190,13 @@
 
 ---
 
-## 6. Combat Logging
+### 13.9 Combat Logging
 !!! danger ""
     - De server verlaten tijdens actieve RP → **directe gangstrike**.
 
 ---
 
-## 7. Wapens, Drugs & Rippen
+### 13.10 Wapens, Drugs & Rippen
 !!! warning ""
     Rippen is alleen toegestaan als de persoon:
     - Een **holster** draagt, of  
@@ -206,10 +210,10 @@
 
 ---
 
-## 8. Verraad & Gangidentiteit
+### 13.11 Verraad & Gangidentiteit
 !!! info ""
     - Verraad moet logisch zijn en met opbouw worden uitgespeeld.
     - Gangs moeten **herkenbare kleding** dragen.
-    - Kleding van andere gangs dragen is verboden, behalve met geldige RP-reden.
+    - Kleding van andere gangs dragen is verboden, behalve met een geldige RP-reden.
 
 ---
