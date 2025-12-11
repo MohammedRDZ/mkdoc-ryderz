@@ -3,7 +3,6 @@
 ---
 
 ## 1. Binnenvallen (Raids)
-- Maximaal 2 binnenvallen per dag per gang.
 - Minimaal 2 uur cooldown.
 - Bewijs (video/screenshot/audio) verplicht.
 - Bewijs moet direct naar de OWC.
@@ -87,7 +86,6 @@ Verboden:
 ---
 
 ## 11. Metagaming
-- Porto gebruiken zonder IC-oortje = gangstrike.
 - Schermdelen/stream-meekijken = directe gangstrike.
 - OOC-informatie IC gebruiken = zware overtreding.
 
@@ -153,7 +151,7 @@ Overvallen moeten volledig RP-technisch logisch zijn en realistisch worden opgeb
 
 ## 17. Hulpdiensten als Hostage
 - Alleen toegestaan wanneer de instantie genoeg personeel heeft.
-- Politie met 16 medewerkers → 2 hostages toegestaan.
+- Politie met 8 medewerkers → 1 hostages toegestaan.
 - Hostages op werkplekken (MRB, ziekenhuis, ANWB) zijn verboden.
 
 ---
