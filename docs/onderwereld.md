@@ -3,170 +3,205 @@
 ---
 
 ## 1. Binnenvallen (Raids)
-- Maximaal 2 binnenvallen per dag.
-- Minimaal 2 uur cooldown.
-- Bewijs verplicht (video/screenshot/audio).
-- Bewijs direct naar OWC.
-- Geen bewijs = gangstrike.
+- Maximaal 2 binnenvallen per dag per gang.
+- Minimaal 2 uur cooldown tussen binnenvallen.
+- Elke binnenval moet onderbouwd zijn met bewijs (video/screenshot/audio).
+- Bewijs moet direct naar de OWC worden gestuurd.
+- Geen bewijs betekent een gangstrike.
 
 ---
 
 ## 2. Third-Party
-**Geen politie:** counteren toegestaan.  
-**Wel politie:** counteren verboden → gangstrike.
+**Geen politie aanwezig:**  
+- Counteren is toegestaan.
+
+**Wel politie aanwezig:**  
+- Counteren is verboden.  
+- Overtreding resulteert in een gangstrike.
 
 ---
 
 ## 3. Alliantiebeleid
-- Maximaal 1 ally.
-- Geen tijdelijke samenwerkingen.
-- Overtreding = gangstrike.
+- Elke gang mag slechts één ally hebben.
+- Tijdelijke of geheime samenwerkingen zijn niet toegestaan.
+- Overtreding leidt tot een gangstrike.
 
 ---
 
 ## 4. Gijzeling & Marteling
-- Max 30 minuten.
-- Daarna vrijlaten of RP-afhandeling.
-- Marteling moet realistisch zijn.
+- Een vijand mag maximaal 30 minuten gegijzeld worden.
+- Daarna moet de gijzelaar worden vrijgelaten of RP-afgehandeld.
+- Marteling moet realistisch en logisch blijven.
+- Onnodig tijdrekken geldt als FailRP en kan leiden tot een gangstrike.
 
 ---
 
-## 5. F6 Menu Gebruik
-- Alleen gebruiken bij fysiek aanwezige personen.
-- Misbruik = gangstrike.
-- In greenzones = gangstrike.
+## 5. F6 Gebruik
+- F6 mag alleen gebruikt worden wanneer een persoon fysiek aanwezig is.
+- F6 misbruiken resulteert in een gangstrike.
+- F6 in een greenzone gebruiken leidt direct tot een gangstrike.
+- F6 gebruiken om iemand vast te buggen of glitchen wordt zwaar bestraft.
 
 ---
 
 ## 6. Gangwars
-- Minimaal 48 uur speeltijd vereist.
-- OWC moet war goedkeuren.
-- Random schieten = gangstrike.
+- Leden moeten minimaal 48 uur speeltijd hebben om deel te nemen.
+- Een gangwar moet vooraf worden goedgekeurd door de OWC.
+- De reden moet logisch en RP-technisch onderbouwd zijn.
+- Random shootouts starten wordt bestraft met een gangstrike.
 
 ---
 
-## 7. RDM
-- Gangstrike vanaf 2 leden.
-- Verboden: schieten zonder RP, hostages doden zonder reden, doden na rippen, groepsaanvallen zonder RP.
+## 7. RDM (Random Deathmatch)
+- Eén lid betrokken → individuele straf, geen gangstrike.
+- Twee of meer leden betrokken → gangstrike.
+
+Voorbeelden:
+- Hostages zonder reden doden.
+- Iemand neerschieten na rippen zonder RP.
+- Schieten zonder opbouw.
+- Afmaken met meerdere leden zonder enige RP.
 
 ---
 
-## 8. VDM
-- 1 persoon per ongeluk = waarschuwing.
-- 2+ leden = gangstrike.
-- Expres aanrijden = sanctie.
+## 8. VDM (Vehicle Deathmatch)
+- Eén lid per ongeluk → waarschuwing.
+- Twee of meer leden → gangstrike.
+- Bewust aanrijden → zware sanctie.
 
 ---
 
-## 9. NVOL
-- Onder schot toch wegrennen = NVOL.
-- 1e keer waarschuwing, 2e keer gangstrike.
-- Groeps-NVOL = gangstrike.
+## 9. NVOL (No Value Of Life)
+- Weglopen of wegrijden onder bedreiging geldt als NVOL.
+- Eerste overtreding → waarschuwing.
+- Tweede overtreding → gangstrike.
+- NVOL met meerdere leden → directe gangstrike.
 
 ---
 
 ## 10. FailRP
-- Vluchten naar gangterrein tijdens achtervolging.
-- Hek sluiten onder schot.
-- Onnodig tijdrekken.
+- Vluchten naar gangterrein tijdens een achtervolging.
+- Hekken sluiten terwijl je onder schot staat.
+- Binnenvallen zonder geldige RP.
 - Ganghuizen binnendringen zonder reden.
+- Onnodig tijdrekken tijdens dreiging.
+- Meerdere leden die FailRP plegen kunnen gangstrikes veroorzaken.
 
 ---
 
 ## 11. Metagaming
-- Porto zonder IC-oortje = gangstrike.
-- Schermdelen = directe gangstrike.
-- OOC-info gebruiken = overtreding.
+- Porto gebruiken zonder IC-oortje leidt tot een gangstrike.
+- Schermdelen of meekijken via streams is verboden.
+- OOC-informatie IC gebruiken is een zware overtreding.
 
 ---
 
 ## 12. Greenzone Regels
-- Geen rippen, geweld, wapens, timeren, bedreigen.
-- Overtreding = directe gangstrike.
+Greenzones zijn volledig vrij van criminaliteit.
+
+Verboden in greenzones:
+- Ripperen
+- Gijzelen
+- Bedreigen
+- Wapens trekken
+- Timeren
+- Geweld of elke vorm van criminaliteit
+
+Overtredingen leiden tot een directe gangstrike.
 
 ---
 
-# LET OP: vanaf hier GEEN nieuwe `#`, altijd `##`
-
-## 13. Overval Regels
-Dit is het hoofdstuk dat in jouw TOC moet verschijnen.
+# Overvallen & Hostage Regels (Met Minimale Eisen)
 
 ---
 
-## 14. Algemene Overval Regels
-- Politie moet binnen 10 minuten aankoppelen.
-- Doen ze dit niet → overvallers mogen vrij vertrekken.
-- Na aankoppelen geen inmenging door gangs/burgers.
-- Hostage-RP moet realistisch blijven.
+## 13. Algemene Overval Regels
+- Politie moet binnen 10 minuten reageren.
+- Reageert de politie niet op tijd, dan mogen overvallers vertrekken zonder achtervolging.
+- Zodra de politie is aangesloten mag geen enkele gang of burger zich mengen.
+- Overvallers zijn verantwoordelijk voor logisch en veilig RP.
+- Hostages mogen niet trollen of het scenario saboteren.
 
 ---
 
-## 15. Hostage- & Wapenlimieten per Overval
-
-### 15.1 Winkeloverval
-- Max 1 hostage.
-- Alleen melee wapens.
-
-### 15.2 Kleine Bank
-- Max 3 hostages.
-- 1 automatic.
-- 1 pistool.
-
-### 15.3 Juwelier
-- Max 4 hostages.
-- 1 automatic.
-- 1 pistool.
-
-### 15.4 Grote Bank
-- Max 5 hostages.
-- 2 automatics.
-- 1 pistool of melee.
+## 14. Minimale Hostage- & Wapenvereisten per Overval
+Voor elke overval gelden **minimale RP-eisen**.  
+Dit zijn geen maximale limieten maar **ondergrenzen** om het scenario realistisch te houden.
 
 ---
 
-## 16. Hostage Regels
-- Hostages blijven op hun plek (binnen = binnen, buiten = buiten).
-- Max 20 minuten vasthouden.
-- Geen positie wisselen.
-- RP moet realistisch blijven.
+### 14.1 Winkeloverval
+- Minimaal 1 hostage.
+- Minimaal 1 wapen (pistool of melee).
 
 ---
 
-## 17. Hulpdiensten als Hostage
-- Toegestaan als instantie minimaal 8 leden heeft.
-- Politie met 16 man → max 2 hostages.
-- Verboden op werkplekken (MRB, ZKH, ANWB).
+### 14.2 Kleine Bank
+- Minimaal 2 hostages.
+- Minimaal 1 automatic.
+- Minimaal 1 pistool.
 
 ---
 
-## 18. Shootouts & Ganggeweld
-- Altijd RP-reden vereist.
-- Random shootouts = gangstrike.
-- Binnenvallen max 2× per dag met bewijs.
+### 14.3 Juwelier
+- Minimaal 3 hostages.
+- Minimaal 1 automatic.
+- Minimaal 1 pistool.
 
 ---
 
-## 19. Combat Logging
-- Server verlaten tijdens RP = directe gangstrike.
+### 14.4 Grote Bank
+- Minimaal 4 hostages.
+- Minimaal 2 automatic wapens.
+- Minimaal 1 pistool of melee-wapen.
 
 ---
 
-## 20. Wapens, Drugs & Rippen
-Rippen alleen toegestaan indien persoon:
-- Holster draagt  
-- Of masker draagt  
-- Of bodyvest draagt  
+## 15. Hostage Regels (Algemeen)
+- Hostages moeten op dezelfde locatie blijven (binnen blijft binnen, buiten blijft buiten).
+- Hostage mag niet wisselen tussen binnen/buiten.
+- Maximaal 20 minuten vasthouden.
+- Hostage RP moet realistisch en serieus blijven.
+- Hostages mogen niet onnodig in levensgevaar worden gebracht zonder RP-opbouw.
+
+---
+
+## 16. Hulpdiensten als Hostage
+- Mag alleen wanneer de instantie voldoende personeel heeft om hun RP door te laten gaan.
+- Politie met 16 mensen → 2 hostages toegestaan.
+- Hostages nemen op overheidswerkplekken (MRB, ziekenhuis, ANWB, overheid) is verboden.
+
+---
+
+## 17. Shootouts & Ganggeweld
+- Ganggeweld moet een duidelijke RP-reden hebben.
+- Random shootouts worden bestraft met een gangstrike.
+- Binnenvallen op gangterrein is toegestaan tot 2 keer per dag en alleen met bewijs.
+
+---
+
+## 18. Combat Logging
+- De stad verlaten tijdens actief RP leidt tot een directe gangstrike.
+- Bij crash moet je zo snel mogelijk terugkeren en het scenario afmaken.
+
+---
+
+## 19. Wapens, Drugs & Rippen
+Rippen is toegestaan wanneer de persoon:
+- Een holster draagt, of
+- Een masker draagt, of
+- Een bodyvest draagt.
 
 Verboden:
 - Rippen zonder RP.
-- OOC-deals.
-- Ripperen in greenzone.
+- OOC handel.
+- Rippen in een greenzone.
 
 ---
 
-## 21. Verraad & Gangidentiteit
-- Verraad moet RP-technisch logisch zijn.
+## 20. Verraad & Gangidentiteit
+- Verraad moet logisch, opgebouwd en realistisch zijn.
 - Gangs moeten herkenbare kleding dragen.
-- Kleding van andere gangs dragen = verboden zonder RP.
+- Kleding van een andere gang dragen is verboden, tenzij met duidelijke RP.
 
 ---
