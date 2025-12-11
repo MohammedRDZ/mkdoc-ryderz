@@ -1,181 +1,216 @@
 # **Onderwereld Regels**
 
-## **Binnenvallen (Raids)**
-* Maximaal **2 binnenvallen per dag**.
-* Minimaal **2 uur** tussen elke binnenval.
-* Elke binnenval moet gemotiveerd zijn met **bewijs** (video, screenshots, audio).
-* Bewijs moet **direct** naar de OWC worden gestuurd.
+---
+
+## **1. Binnenvallen (Raids)**
+!!! danger "**Regelset**"
+    - Maximaal **2 binnenvallen per dag** per gang.
+    - Minimaal **2 uur cooldown** tussen binnenvallen.
+    - Elke binnenval moet worden voorzien van **bewijs** (video, screenshot, audio).
+    - Bewijs moet **direct** naar de OWC worden doorgestuurd.
+    - Geen bewijs = **directe gangstrike**.
 
 ---
 
-## **Third-Party**
-* Als er **geen politie** aanwezig is → de overval mag gecounterd worden.
-* Als er **wel politie** aanwezig is → counteren is **verboden**.
+## **2. Third-Party (Inmenging)**
+!!! warning ""
+    **Geen politie aanwezig:**  
+    - Counteren is **toegestaan**.
+
+    **Politie aanwezig:**  
+    - Counteren is **verboden**.  
+    - Overtreding = **directe gangstrike**.
 
 ---
 
-## **Alliantiebeleid**
-* Elke gang mag **slechts één ally** hebben.
-* Meerdere samenwerkingen zijn **niet toegestaan**.
+## **3. Alliantiebeleid**
+!!! note ""
+    - Elke gang mag maximaal **één ally** hebben.
+    - Tijdelijke samenwerkingen met andere gangs zijn **verboden**.
+    - Overtreding = **gangstrike**.
 
 ---
 
-## **Gijzeling & Marteling**
-* Een vijandig ganglid mag maximaal **30 minuten** worden vastgehouden.
-* Na 30 minuten moet de persoon **worden vrijgelaten of afgehandeld via RP**.
-* Marteling moet **RP-technisch realistisch** blijven.
+## **4. Gijzeling & Marteling**
+!!! warning ""
+    - Maximaal **30 minuten** gijzelen.
+    - Daarna moet de gijzelaar worden **vrijgelaten** of **RP-afgehandeld**.
+    - Marteling moet **realistisch en logisch** blijven.
+    - Onnodig tijdrekken = **FailRP → gangstrike**.
 
 ---
 
-## **F6 Menu Gebruik**
-* F6 mag **alleen** worden gebruikt wanneer de persoon **al fysiek aanwezig** is in het scenario.
-  * Denk aan boeien, fouilleren, escorteren.
-* Misbruik van het F6-menu = **directe gangstrike**.
-* F6 gebruiken in een **greenzone** = **directe gangstrike**.
+## **5. F6 Menu Gebruik**
+!!! danger ""
+    - F6 mag alleen worden gebruikt wanneer de persoon **fysiek aanwezig en onder controle** is.
+    - Misbruik van F6 = **directe gangstrike**.
+    - F6 gebruiken in een **greenzone** = **directe gangstrike**.
+    - F6 gebruiken om iemand vast te glitchen = **zware sanctie (OWC besluit)**.
 
 ---
 
-## **Gangwar Regels**
-* Alleen leden met **minimaal 48 uur** in de gang mogen deelnemen.
-* Een gangwar moet vooraf worden **aangevraagd bij een OWC**.
-* De reden voor de war moet **duidelijk en logisch** zijn.
+## **6. Gangwars**
+!!! note ""
+    - Deelname is alleen toegestaan met **minimaal 48 uur speeltijd** in de gang.
+    - Een gangwar moet **vooraf** door de OWC worden goedgekeurd.
+    - De reden moet **logisch en RP-technisch kloppend** zijn.
+    - Een war starten zonder RP = **directe gangstrike**.
 
 ---
 
-## **RDM (Random Deathmatch)**
-* **1 ganglid** betrokken = geen gangstrike.
-* **2 of meer gangleden** betrokken = gangstrike.
-* Hostages **zonder reden doodschieten** = gangstrike.
-* Iemand **doodschieten na rippen** = gangstrike.
-* Direct schieten **zonder RP-opbouw** = gangstrike.
-* Banden schieten + persoon afmaken met 2+ man **zonder RP** = gangstrike.
+## **7. RDM / Onlogisch Schieten**
+!!! warning ""
+    **Gangstrike vanaf 2 leden betrokken.**
+
+    Verboden:
+    - Schieten zonder **RP-opbouw**.
+    - Hostages zonder reden doden.
+    - Iemand doden **na rippen** (zonder RP reden).
+    - Met meerdere leden iemand afmaken zonder RP.
 
 ---
 
-## **VDM (Vehicle Deathmatch)**
-* **1 ganglid** = geen gangstrike.
-* **2 of meer leden** = gangstrike.
+## **8. VDM**
+!!! failure ""
+    - 1 lid per ongeluk = waarschuwing.  
+    - 2 of meer leden = **gangstrike**.  
+    - Bewust aanrijden = **directe sanctie**.
 
 ---
 
-## **NVOL (No Value Of Life)**
-* **1 ganglid** = waarschuwing of geen strike.
-* **2 of meer leden** = gangstrike.
-
-**Voorbeeld:**  
-Wegrijden terwijl je onder schot staat:  
-* **1e keer:** waarschuwing  
-* **2e keer:** gangstrike
+## **9. NVOL (No Value Of Life)**
+!!! warning ""
+    - Weg- of doorlopen terwijl je onder schot staat = NVOL.
+    - 1e keer: waarschuwing  
+    - 2e keer: gangstrike  
+    - Groeps-NVOL = **directe gangstrike**
 
 ---
 
-## **FailRP**
-* Tijdens een achtervolging **vluchten naar je eigen gangterrein** = gangstrike.
-* **Hekken sluiten** terwijl je onder schot wordt gehouden = gangstrike.
-* Meerdere leden die FailRP plegen = gangstrike.
-* Zonder geldige reden binnendringen in **ganghuizen** = gangstrike.
-* **Tijdrekken** tijdens bedreiging is verboden — je moet **meewerken**.
+## **10. FailRP**
+!!! danger ""
+    Verboden:
+    - Vluchten naar gangterrein tijdens achtervolging.
+    - Hekken sluiten terwijl je onder schot staat.
+    - Binnenvallen zonder goede reden.
+    - Onrealistisch tijdrekken of geen medewerking.
+    - Ganghuizen binnengaan zonder geldige reden.
 
 ---
 
-## **Metagaming**
-* In porto zitten zonder **oortje ingame** = gangstrike.
-* **Schermdelen in porto/oortje** = gangstrike.
+## **11. Metagaming**
+!!! failure ""
+    - In porto zitten zonder **oortje** = gangstrike.
+    - Schermdelen of meekijken via streams = **directe gangstrike**.
+    - OOC-informatie gebruiken = zware overtreding.
 
 ---
 
-## **Greenzone Regels**
-* In een **greenzone** mag je **niet rippen**, ongeacht de situatie.
-* **Timeren in een greenzone** (iemand vasthouden zodat een timer verloopt) is **verboden**.
-* Geweld, ontvoeren, bedreigen of criminele handelingen zijn in een greenzone **niet toegestaan**.
-* Overtredingen in een greenzone resulteren in een **directe gangstrike**.
+## **12. Greenzone Regels**
+!!! success "**Greenzone = GEEN CRIMINALITEIT**"
+    Verboden:
+    - Ripperen  
+    - Gijzelen  
+    - Bedreigen  
+    - Wapens trekken  
+    - Timeren  
+    - Geweld of enige criminele handeling  
+
+    Overtreding = **directe gangstrike**.
 
 ---
 
 # **Overval Regels**
 
-## **Hostage & Wapenlimieten**
+---
 
-### **Winkeloverval**
-* Max **1 hostage**
-* Alleen **melee wapens**
+## **Algemene Regels**
+!!! note ""
+    - Politie moet binnen **10 minuten** aankoppelen.
+    - Gebeurt dit niet → overvallers mogen **weg zonder achtervolging**.
+    - Zodra politie is aangekoppeld, mag **niemand anders** zich ermee bemoeien.
+    - Hostage-RP moet logisch en realistisch blijven.
 
 ---
 
-### **Kleine Bank**
-* Max **3 hostages**
-* **1 automatic wapen**
-* **1 handvuurwapen** (pistool)
+## **Hostage & Wapenlimieten per Overval**
 
----
+### Winkeloverval
+!!! info ""
+    - Maximaal **1 hostage**
+    - Alleen **melee wapens**
 
-### **Juwelier**
-* Max **4 hostages**
-* **1 automatic wapen**
-* **1 handvuurwapen**
+### Kleine Bank
+!!! info ""
+    - Maximaal **3 hostages**
+    - **1 automatic**
+    - **1 pistool**
 
----
+### Juwelier
+!!! info ""
+    - Maximaal **4 hostages**
+    - **1 automatic**
+    - **1 pistool**
 
-### **Grote Bank**
-* Max **5 hostages**
-* **2 automatic wapens**
-* **1 handwapen of melee wapen**
-
----
-
-## **Tijd & Politie**
-* Politie moet binnen **10 minuten** aankoppelen.
-* Doen ze dit niet? → Overvallers mogen **weggaan zonder achtervolging**.
-* Zodra politie is aangekoppeld → **geen andere gangs of burgers** mogen zich ermee bemoeien.
+### Grote Bank
+!!! info ""
+    - Maximaal **5 hostages**
+    - **2 automatics**
+    - **1 pistool of melee**
 
 ---
 
 ## **Hostage Regels**
-* Hostages moeten **binnen** blijven, tenzij vooraf afgesproken.
-* Buiten hostages mag, maar:
-  * **Ze blijven buiten**
-  * **Ze gaan niet naar binnen**, en andersom.
-* Hostages mogen maximaal **20 minuten** worden vastgehouden.
+!!! warning ""
+    - Hostages blijven **op hun plek** (binnen blijft binnen, buiten blijft buiten).
+    - Locatie wisselen is verboden.
+    - Maximaal **20 minuten** vasthouden.
+    - RP moet realistisch blijven.
 
 ---
 
 ## **Hulpdiensten als Hostage**
-Je mag hulpdiensten alleen hostage nemen wanneer:
-* De instantie **minimaal 8 leden** in dienst heeft.
+!!! danger ""
+    Toegestaan wanneer de instantie **minimaal 8 medewerkers** in dienst heeft.  
+    Voorbeeld: Politie 16 → **2 hostages toegestaan**.
 
-Voorbeeld:
-* Politie heeft 16 man → max **2** hostages toegestaan.
-
-**Verboden:**
-* Overheidsmedewerkers op **hun werkplek** gijzelen.
+    Verboden:
+    - Hostage nemen op **werkplekken** (MRB, ziekenhuis, ANWB garage).
 
 ---
-
-# **Overige Regels**
 
 ## **Shootouts & Ganggeweld**
-* Geen **random shootouts**.
-* Ganggeweld moet **altijd een RP–reden** hebben.
-* Binnenvallen op gangterrein mag **max 2 keer per dag** en moet altijd met **bewijs**.
+!!! note ""
+    - Elke vorm van ganggeweld moet een **RP-redenen** hebben.
+    - Random shootouts = **gangstrike**.
+    - Binnenvallen op gangterrein max **2× per dag** (met bewijs).
 
 ---
 
-## **Combat & Logging**
-* **Combat logging** = gangstrike.
+## **Combat Logging**
+!!! danger ""
+    - De server verlaten tijdens actief RP = **directe gangstrike**.
 
 ---
 
 ## **Wapens, Drugs & Rippen**
-* Handel moet **via RP** verlopen — geen OOC deals.
-* Rippen mag alleen als de persoon:
-  * Een **holster** draagt, of
-  * Een **masker** draagt, of
-  * Een **bodyvest** draagt.
-* Rippen zonder geldige reden = gangstrike.
+!!! warning ""
+    Rippen mag alleen als de persoon:
+    - Een **holster**,  
+    - Een **masker**,  
+    - Of een **bodyvest** draagt.
+
+    Overtredingen:
+    - Rippen zonder RP = gangstrike  
+    - OOC deals = verboden  
+    - Rippen in een greenzone = directe gangstrike
 
 ---
 
-## **Verraad & Kleding**
-* Verraad moet via **realistische en opbouwende RP**.
-* Gangs moeten **herkenbare kleding** dragen.
-* Kleding van andere gangs dragen = **verboden**, tenzij er een geldige RP–reden voor is.
+## **Verraad & Gangidentiteit**
+!!! info ""
+    - Verraad moet worden opgebouwd met realistische RP.
+    - Gangs moeten **herkenbare kleding** dragen.
+    - Kleding van andere gangs dragen is verboden, tenzij RP-reden.
+
+---
