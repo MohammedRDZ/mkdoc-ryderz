@@ -1,4 +1,4 @@
-# 🧹 Straffen & Taken Systeem – Ryderz Roleplay
+#  Straffen & Taken Systeem 
 
 Bij Ryderz RP hanteren we een duidelijk, eerlijk en streng taakstraf-systeem.  
 Wanneer een speler de regels overtreedt, krijgt hij of zij een taakstraf opgelegd.  
