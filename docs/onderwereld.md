@@ -117,30 +117,45 @@ Overvallen moeten volledig RP-technisch logisch zijn en realistisch worden opgeb
 
 ---
 
-## 15. Minimale Hostage- & Wapenvereisten per Overval
+## 15. Eis-Systeem
+- 1 hostage = 1 eis.
+- Maximaal 4 eisen.
+- Overheids-hostage = +1 extra eis (maximaal totaal 5 eisen).
 
-### 15.1 Winkeloverval
+Toegestane eisen:
+- Vrije doorgang
+- Geen spikes
+- Zwaailichten uit
+- Transportmiddel
+- Cuff-removal
+- 1 financiële of item-eis toegestaan mits RP-technisch logisch
+
+---
+
+## 16. Minimale Hostage- & Wapenvereisten per Overval
+
+### 16.1 Winkeloverval
 - Minimaal 1 hostage.
 - Minimaal 1 pistool of melee-wapen.
 
-### 15.2 Kleine Bank
+### 16.2 Kleine Bank
 - Minimaal 2 hostages.
 - Minimaal 1 automatic.
 - Minimaal 1 pistool.
 
-### 15.3 Juwelier
+### 16.3 Juwelier
 - Minimaal 3 hostages.
 - Minimaal 1 automatic.
 - Minimaal 1 pistool.
 
-### 15.4 Grote Bank
+### 16.4 Grote Bank
 - Minimaal 4 hostages.
 - Minimaal 2 automatics.
 - Minimaal 1 pistool of melee.
 
 ---
 
-## 16. Hostage Regels
+## 17. Hostage Regels
 - Hostage blijft op dezelfde locatie (binnen blijft binnen, buiten blijft buiten).
 - Geen positie-wissels.
 - Maximaal 20 minuten vasthouden.
@@ -149,23 +164,17 @@ Overvallen moeten volledig RP-technisch logisch zijn en realistisch worden opgeb
 
 ---
 
-## 17. Hulpdiensten als Hostage
+## 18. Hulpdiensten als Hostage
 - Alleen toegestaan wanneer de instantie genoeg personeel heeft.
-- Politie met 8 medewerkers → 1 hostages toegestaan.
+- Politie met 8 medewerkers → 1 hostage toegestaan.
 - Hostages op werkplekken (MRB, ziekenhuis, ANWB) zijn verboden.
 
 ---
 
-## 18. Shootouts & Ganggeweld
+## 19. Shootouts & Ganggeweld
 - Er moet altijd een geldige RP-reden zijn.
 - Random shootouts → gangstrike.
 - Binnenvallen op gangterrein → maximaal 2 per dag (met bewijs).
-
----
-
-## 19. Combat Logging
-- De stad verlaten tijdens actief RP = directe gangstrike.
-- Bij crash moet men direct terugkeren en RP afmaken.
 
 ---
 
@@ -180,11 +189,14 @@ Verboden:
 - OOC-handel.
 - Rippen in een greenzone (directe gangstrike).
 
+Extra (Drugs):
+- Drugs rippen toegestaan met RP-opbouw.
+- Geen drugs rippen zonder aanleiding.
+- Geen OOC-afspraken.
+
 ---
 
 ## 21. Verraad & Gangidentiteit
 - Verraad moet logisch zijn en met RP worden opgebouwd.
 - Gangs moeten herkenbare kleding dragen.
 - Kleding van andere gangs dragen zonder RP is verboden.
-
----
