@@ -107,11 +107,11 @@ Greenzone-overtreding = directe gangstrike.
 
 ---
 
-# OVERVALLEN (MET MINIMALE HOSTAGES & WAPENS)
+## 13. Overvallen (Met Minimale Hostages & Wapens)
 
 ---
 
-## 13. Overval Regels – Algemene Regels
+## 14. Overval Regels – Algemene Regels
 - Politie moet binnen 10 minuten aankoppelen.
 - Doet politie dit niet → overvallers mogen vrij vertrekken zonder achtervolging.
 - Na aankoppelen mag niemand (gangs/burgers) zich mengen.
@@ -119,31 +119,31 @@ Greenzone-overtreding = directe gangstrike.
 
 ---
 
-## 14. Minimale Hostage- & Wapenvereisten per Overval
+## 15. Minimale Hostage- & Wapenvereisten per Overval
 Elke overval moet minimaal onderstaande middelen inzetten om RP geloofwaardig te maken.
 
-### 14.1 Winkeloverval
+### 15.1 Winkeloverval
 - Minimaal 1 hostage.
 - Minimaal 1 wapen (pistool of melee).
 
-### 14.2 Kleine Bank
+### 15.2 Kleine Bank
 - Minimaal 2 hostages.
 - Minimaal 1 automatic.
 - Minimaal 1 pistool.
 
-### 14.3 Juwelier
+### 15.3 Juwelier
 - Minimaal 3 hostages.
 - Minimaal 1 automatic.
 - Minimaal 1 pistool.
 
-### 14.4 Grote Bank
+### 15.4 Grote Bank
 - Minimaal 4 hostages.
 - Minimaal 2 automatic wapens.
 - Minimaal 1 pistool of melee-wapen.
 
 ---
 
-## 15. Hostage Regels
+## 16. Hostage Regels
 - Hostage blijft op dezelfde locatie (binnen blijft binnen, buiten blijft buiten).
 - Geen positie-wissel toegestaan.
 - Maximaal 20 minuten vasthouden.
@@ -152,27 +152,27 @@ Elke overval moet minimaal onderstaande middelen inzetten om RP geloofwaardig te
 
 ---
 
-## 16. Hulpdiensten als Hostage
+## 17. Hulpdiensten als Hostage
 - Mag alleen als de instantie genoeg personeel heeft om RP voort te zetten.
 - Politie met 16 mensen → 2 hostages toegestaan.
 - Hostages op werkplekken (MRB, ziekenhuis, ANWB) zijn verboden.
 
 ---
 
-## 17. Shootouts & Ganggeweld
+## 18. Shootouts & Ganggeweld
 - Er moet altijd een geldige RP-reden zijn.
 - Random shootouts → gangstrike.
 - Binnenvallen op gangterrein → maximaal 2 per dag, altijd met bewijs.
 
 ---
 
-## 18. Combat Logging
+## 19. Combat Logging
 - De stad verlaten tijdens actief RP = directe gangstrike.
 - Na een crash moet men direct terugkomen en RP afmaken.
 
 ---
 
-## 19. Wapens, Drugs & Rippen
+## 20. Wapens, Drugs & Rippen
 Rippen mag alleen wanneer persoon:
 - Een holster,
 - Een masker,
@@ -185,7 +185,7 @@ Verboden:
 
 ---
 
-## 20. Verraad & Gangidentiteit
+## 21. Verraad & Gangidentiteit
 - Verraad moet logisch zijn en via RP worden gespeeld.
 - Gangs moeten herkenbare kleding dragen.
 - Kleding van andere gangs dragen zonder RP is verboden.
