@@ -7,50 +7,6 @@ Welkom bij het officiële wetboek van **Ryderz Roleplay**. Hieronder vind je all
 
 ---
 
-## Inhoud
-
-- Geweld & PvP
-  - [Artikel 1.1 — VDM](#artikel-11--vdm-vehicle-deathmatch)
-  - [Artikel 1.2 — RDM](#artikel-12--rdm-random-deathmatch)
-  - [Artikel 1.3 — Massa VDM/RDM](#artikel-13--massa-vdmrdm-3-personen-of-meer)
-- Roleplay & gedrag
-  - [Artikel 2 — FailRP & Powergaming](#artikel-2--failrp--powergaming)
-  - [Artikel 3 — (Cop)baiten](#artikel-3--copbaiten)
-  - [Artikel 4 — NVOL](#artikel-4--no-value-of-life-nvol)
-  - [Artikel 5 — New Life Rule](#artikel-5--new-life-rule)
-  - [Artikel 6 — Offroad / GTA drivestyle](#artikel-6--offroad--gta-drivestyle)
-  - [Artikel 7 — OOC praten / karakter breken](#artikel-7--ooc-praten--karakter-breken)
-  - [Artikel 8 — Scenario’s verstoren](#artikel-8--scenario-s-verstoren)
-  - [Artikel 9 — Schelden / spammen](#artikel-9--schelden--spammen)
-- Staff & integriteit
-  - [Artikel 10 — Reports / staffzaken](#artikel-10--reports--staffzaken)
-  - [Artikel 10.2 — Disrespect naar staff](#artikel-102--disrespect-naar-staff)
-  - [Artikel 11.1 — NEP impersonatie](#artikel-111--nep-impersonatie)
-  - [Artikel 11.2 — Scammen / oplichten](#artikel-112--scammen--oplichten-giftcards-verboden)
-- Voertuigen & acties
-  - [Artikel 12 — Voertuigen mid-scenario](#artikel-12--voertuigen-mid-scenario)
-  - [Artikel 13 — Landen heli/vliegtuig](#artikel-13--landen-helikoptervliegtuig)
-  - [Artikel 14 — Overheidsvoertuigen / greenzone stelen](#artikel-14--overheidsvoertuigen--greenzone-stelen)
-  - [Artikel 15.1 — Pitten](#artikel-151--realistisch-pitten)
-  - [Artikel 15.2 — Combatloggen](#artikel-152--combatloggen)
-  - [Artikel 16 — Greenzone vluchten/campen](#artikel-16--greenzone-vluchtencampen)
-- Informatie-misbruik & cheats
-  - [Artikel 17.1 — Metagamen](#artikel-171--metagamen)
-  - [Artikel 17.2 — Stream snipen](#artikel-172--stream-snipen)
-  - [Artikel 18.1 — Stemherkenning/vervorming](#artikel-181--stemherkenningvervorming)
-  - [Artikel 18.2 — Lichte exploits/bug abuse](#artikel-182--lichte-exploits--bug-abuse)
-  - [Artikel 18.3 — Zware exploits/duplicaten](#artikel-183--zware-exploitsbug-abuseduplicaten)
-  - [Artikel 19 — Hacken/cheaten/spoofen](#artikel-19--hacken-cheaten--spoofen)
-  - [Artikel 20 — IRL Trading](#artikel-20--irl-trading)
-  - [Artikel 21 — Leaken/Booten/DDOS](#artikel-21--adresgegevens-leakenbootenddossen)
-- Overig
-  - [Artikel 26 — Bedreigingen](#artikel-26--bedreigingen)
-  - [Artikel 27 — Negative content](#artikel-27--negative-content)
-  - [Artikel 28.1 — Ryderz zwart maken](#artikel-281--ryderz-roleplay-zwart-maken)
-  - [Artikel 28.2 — Vulgariteit & seksuele handelingen](#artikel-282--vulgariteit--seksuele-handelingen)
-
----
-
 ## Geweld & PvP
 
 ### Artikel 1.1 — VDM (Vehicle Deathmatch)
@@ -108,7 +64,7 @@ Voorbeelden:
 - Emote abuse.
 - Tijdens achtervolging/shootout/wapen gericht of andere RP op de brug: **niet** van de brug af het water in springen.
 - Trein/parachute gebruiken **mid RP**.
-- High-ground campen waar niemand bij je kan.
+- High-ground campen waar niemand bij je kan komen.
 - Met handen omhoog “weg lopen” uit scenario en daarna weer meedoen.
 - Misbruik van TP-locaties (huizen, treinen, loodsen, liften).
 - Gebouwen zomaar “holden” terwijl je nog verder kan.
@@ -439,7 +395,7 @@ Zo ernstig dat iemand er veel voordeel uit haalt of dat er economische schade on
 
 * * *
 
-### Artikel 19 — Hacken, cheaten en/of spoofen
+### Artikel 19 — Hacken/cheaten/spoofen
 
 Hacks/cheats (FiveM/GTA) zijn strikt verboden. Bij verdenking kan staff een PC-check uitvoeren.
 
