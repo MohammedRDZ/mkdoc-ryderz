@@ -434,7 +434,6 @@ Screenshots of Discord in browser zijn geen geldig bewijs.
 
 ---
 
-## Overig
 
 ### Artikel 26 — Bedreigingen
 
