@@ -1,16 +1,26 @@
 site_name: Ryderz Roleplay
-site_description: 'Wet en regelgeving van Ryderz roleplay'
+site_description: "Wet en regelgeving van Ryderz roleplay"
 site_url: https://apv.ryderzrp.nl
-repo_url: 'http://github.com/Ryderzroleplay/Ryderz-roleplay'
-repo_name: 'Ryderz Roleplay'
+
+repo_url: "https://github.com/Ryderzroleplay/Ryderz-roleplay"
+repo_name: "Ryderz Roleplay"
+
+nav:
+  - Home: index.md
+  - Ryderz Team: team.md
+  - Algemene Regels: algemeen.md
+  - Onderwereld Regels: onderwereld.md
+  - Overheid: overheid.md   # maak deze pagina aan, of pas het pad aan
+
 theme:
   name: material
+  language: nl
+  logo: logo.png
+  favicon: logo.png
   features:
     - navigation.instant
     - navigation.instant.progress
-    - navigation.instant.preview
     - navigation.tracking
-    - navigation.tabs
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
@@ -18,29 +28,15 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.footer
-  logo: logo.png
-  favicon: logo.png
   palette:
-   # Palette toggle for light mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-sunny 
-        name: Switch to light mode
-
-    # Palette toggle for dark mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-    
-  language: nl
-
-  nav: 
-    - Home: index.md
-    - Ryderz Team: team.md
-    - Algmene Regels: algemeen.md
-    - Onderwereld Regels: onderwereld.md
-    - Overheid: onderwereld.md
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 
 extra:
   generator: false
@@ -52,17 +48,16 @@ extra:
   analytics:
     provider: google
     property: G-NV5M4K299L
-
   consent:
     title: Cookies
-    description: >- 
+    description: >-
       We gebruiken cookies om uw herhaalde bezoeken en voorkeuren te herkennen, en
       om de effectiviteit van onze documentatie te meten en of gebruikers
       vinden wat ze zoeken. Met uw toestemming helpt u ons om
       onze documentatie te verbeteren.
     actions:
       - accept
-  
+
 copyright: Copyright &copy; 2025 Ryderz Roleplay - Alle rechten voorbehouden.
 
 plugins:
@@ -70,9 +65,9 @@ plugins:
       type: timeago
       time_zone: Europe/Amsterdam
       locale: nl
-      fallback_to_build_date: false   
+      fallback_to_build_date: false
   - search:
       lang: nl
+
 extra_css:
   - styles.css?v=2
-
