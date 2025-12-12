@@ -1,425 +1,527 @@
-Ryderz Roleplay 
- 
-Welkom bij het officiële wetboek van Ryderz Roleplay. Hieronder vind je alle regels, artikelen, straffen en bepalingen die van toepassing zijn. Dit document is opgesteld voor duidelijkheid en consistentie binnen de roleplay-server.
- 
-Regelement Ryderz Roleplay
-Let op: Maak binnen 27 uur een staffzaak (Ticket), anders kan een staff niks meer voor je betekenen.
+# Algemene Regels
 
-Artikel 1.1 VDM (Vehicle Deathmatch)
-Het doelbewust aanrijden en/of hinderen van anderen met een voertuig, met of zonder dodelijke slachtoffers tot gevolg, is strafbaar.
-Indien iemand met opzet wordt aangereden terwijl hij/zij midden op de weg stil staat, valt dit ook onder de noemer VDM (Vehicle Deathmatch).
-Als er sprake is van een verkeersongeval, valt dit niet onder VDM.
- 
-Straffen:
+Welkom bij het officiële wetboek van **Ryderz Roleplay**. Hieronder vind je alle regels, artikelen, straffen en bepalingen die van toepassing zijn. Dit document is opgesteld voor duidelijkheid en consistentie binnen de roleplay-server.
 
+!!! warning "Let op"
+    Maak binnen **27 uur** een staffzaak (ticket), anders kan staff niets meer voor je betekenen.
 
+---
 
-Artikel 1.2 RDM (Random Deathmatch)
+## Inhoud
 
-Het is verboden om iemand te vermoorden zonder enige betrokkenheid in het spelverloop. Het is eveneens niet toegestaan om iemand te doden zonder enige vorm van roleplay, of wanneer iemand juist meewerkt aan een roleplay scenario.
-Het uitloven van een beloning op iemands hoofd of het plegen van een huurmoord is niet toegestaan en wordt beschouwd als RDM (Random Deathmatch).
-Als iemand je één keer slaat is het GEEN reden om hem te vermoorden.
- 
-Straffen:
+- Geweld & PvP
+  - [Artikel 1.1 — VDM](#artikel-11--vdm-vehicle-deathmatch)
+  - [Artikel 1.2 — RDM](#artikel-12--rdm-random-deathmatch)
+  - [Artikel 1.3 — Massa VDM/RDM](#artikel-13--massa-vdmrdm-3-personen-of-meer)
+- Roleplay & gedrag
+  - [Artikel 2 — FailRP & Powergaming](#artikel-2--failrp--powergaming)
+  - [Artikel 3 — (Cop)baiten](#artikel-3--copbaiten)
+  - [Artikel 4 — NVOL](#artikel-4--no-value-of-life-nvol)
+  - [Artikel 5 — New Life Rule](#artikel-5--new-life-rule)
+  - [Artikel 6 — Offroad / GTA drivestyle](#artikel-6--offroad--gta-drivestyle)
+  - [Artikel 7 — OOC praten / karakter breken](#artikel-7--ooc-praten--karakter-breken)
+  - [Artikel 8 — Scenario’s verstoren](#artikel-8--scenario-s-verstoren)
+  - [Artikel 9 — Schelden / spammen](#artikel-9--schelden--spammen)
+- Staff & integriteit
+  - [Artikel 10 — Reports / staffzaken](#artikel-10--reports--staffzaken)
+  - [Artikel 10.2 — Disrespect naar staff](#artikel-102--disrespect-naar-staff)
+  - [Artikel 11.1 — NEP impersonatie](#artikel-111--nep-impersonatie)
+  - [Artikel 11.2 — Scammen / oplichten](#artikel-112--scammen--oplichten-giftcards-verboden)
+- Voertuigen & acties
+  - [Artikel 12 — Voertuigen mid-scenario](#artikel-12--voertuigen-mid-scenario)
+  - [Artikel 13 — Landen heli/vliegtuig](#artikel-13--landen-helikoptervliegtuig)
+  - [Artikel 14 — Overheidsvoertuigen / greenzone stelen](#artikel-14--overheidsvoertuigen--greenzone-stelen)
+  - [Artikel 15.1 — Pitten](#artikel-151--realistisch-pitten)
+  - [Artikel 15.2 — Combatloggen](#artikel-152--combatloggen)
+  - [Artikel 16 — Greenzone vluchten/campen](#artikel-16--greenzone-vluchtencampen)
+- Informatie-misbruik & cheats
+  - [Artikel 17.1 — Metagamen](#artikel-171--metagamen)
+  - [Artikel 17.2 — Stream snipen](#artikel-172--stream-snipen)
+  - [Artikel 18.1 — Stemherkenning/vervorming](#artikel-181--stemherkenningvervorming)
+  - [Artikel 18.2 — Lichte exploits/bug abuse](#artikel-182--lichte-exploits--bug-abuse)
+  - [Artikel 18.3 — Zware exploits/duplicaten](#artikel-183--zware-exploitsbug-abuseduplicaten)
+  - [Artikel 19 — Hacken/cheaten/spoofen](#artikel-19--hacken-cheaten--spoofen)
+  - [Artikel 20 — IRL Trading](#artikel-20--irl-trading)
+  - [Artikel 21 — Leaken/Booten/DDOS](#artikel-21--adresgegevens-leakenbootenddossen)
+- Overig
+  - [Artikel 26 — Bedreigingen](#artikel-26--bedreigingen)
+  - [Artikel 27 — Negative content](#artikel-27--negative-content)
+  - [Artikel 28.1 — Ryderz zwart maken](#artikel-281--ryderz-roleplay-zwart-maken)
+  - [Artikel 28.2 — Vulgariteit & seksuele handelingen](#artikel-282--vulgariteit--seksuele-handelingen)
 
-1e keer: 80 taken
-2e keer: 160 taken + Wapeninleveren. 
-3e keer: 500 taken + Wapeninleveren.
+---
 
-Artikel 1.3 Massa VDM/RDM - 3 personen of meer.
-VDM: Het is verboden om herhaaldelijk andere voertuigen en/of personen aan te rijden. Dit betekent dat het strafbaar is om met een voertuig opzettelijk in te rijden op een grote groep mensen, met of zonder slachtoffers als gevolg.
-RDM: Het is verboden om meerdere personen zonder geldige reden en/of roleplay te doden.
- 
-Straffen:
+## Geweld & PvP
 
-1e keer: 160 taken.
-2e keer: 240 taken. 
-3e keer: 750 taken
+### Artikel 1.1 — VDM (Vehicle Deathmatch)
 
-Artikel 2. Fail RP en/of Powergaming.
-Powergaming:
-Als iemand opzettelijk een roleplay scenario creëert dat resulteert in een oneerlijk voordeel, wordt dit beschouwd als powergaming. Voorbeelden van powergaming zijn:
+Het doelbewust aanrijden en/of hinderen van anderen met een voertuig, met of zonder dodelijke slachtoffers, is strafbaar.
 
-/me pakt communicatiemiddelen en wapens. Dit moet afzonderlijk worden gedaan.
-Te rijden en iemand tegelijkertijd vast te binden
-Een dood persoon in het water of een bosje te leggen, zodat andere spelers hem/haar dan niet kunnen helpen.
-Rennen terwijl je porto ingedrukt houd met een wapen vast.
-Tijdens een hostage situatie extra agenten hostage nemen.
-Terwijl je iemand onder schot hebt, schieten op andere burgers/hulpverleners.
-Emote Abuse.
-Zit jij in achtervolging/shootout/wapen gericht of andere RP de brug van eiland, dan mag je NIET van de brug af springen het water in.
-Vervoersmiddelen zoals de trein of parachute gebruiken mid RP.
-High ground campen op hoge gebouwen en dan naar beneden schieten terwijl niemand bij jou kan komen is niet toegestaan.
-Loop jij met je handen omhoog weg / doo een scenario ? mag je niet meer in dit scenario mee doen.
-Maak geen misbruik van tp locaties zoals huizen, treinen, loodsen en liften.
-Het zomaar holden van gebouwen terwijl je wel nog verder kan mag niet !
- 
-Carry Abuse.
- 
-je legt iemand altijd via de achterkant van het voertuig in de KOFFERBAK
-Personen mogen alleen via de kofferbak vervoerd worden tijdens een carry. Acties zoals
-/me legt op achterbank of andere variaties tellen niet — uitsluitend de kofferbak is toegestaan.
- 
-De persoon die gecarried wordt, zal altijd een inventory wipe krijgen.
- 
-Fail RP:
-Niet meewerken in een roleplay.
-Situaties die in het echt ook niet mogelijk zijn en dus onrealistisch zijn.
-Het gebruiken van een holster zonder dat deze zichbaar is.
-Indien jij een holster wilt gebruiken zal deze zichtbaar moeten zijn.
- 
-Wanneer je volledig ingesloten bent door politie, marechaussee of andere criminelen, is het niet toegestaan om zomaar iedereen omver te rijden of te beuken om te ontsnappen.Dit wordt beschouwd als een laag niveau van RP of als Fail RP en zal worden bestraft.
- 
-Straffen:
-1e keer: 70 taken
-2e keer: 150 taken + Warn
-3e keer: 500 taken + 2 warn(s)
+- Iemand met opzet aanrijden terwijl hij/zij stil staat midden op de weg valt ook onder VDM.
+- Een **verkeersongeval** valt **niet** onder VDM.
 
-Artikel 3. (Cop)Baiten.
-Copbaiten: Hij/zij die expres ambtenaren uitlokt wordt bestraft. Deze actie staat bekend als ‘cop-baiting’ Hieronder valt ook,
-het zogenaamd een vraag willen stellen aan een ambtenaar, het telkens in de buurt blijven van een ambtenaar.
-Op en neer of om de straat rijden waar de ambtenaar zich bevindt en het zoeken van contact met het proberen niet gepakt te worden.
-Baiten: Hij/zij die moedwillig burgers uitlokt met de intentie deze te irriteren en/of bezig te houden of uit te lokken om een wapen te trekken is ook strafbaar.
- 
-Straffen:
+**Straffen:** *niet ingevuld / niet gespecificeerd.*
 
-1e keer: 30 taken
-2e keer: 60 taken
-3e keer: 100 taken + warn
+* * *
 
-Artikel 4. No Value Of Life (NVOL)
-Indien je geen waarde hecht aan je leven zal dit worden beschouwd als No Value Of Life.
- 
+### Artikel 1.2 — RDM (Random Deathmatch)
+
+Het is verboden om iemand te vermoorden zonder betrokkenheid in het spelverloop.
+
+- Doden zonder roleplay (of wanneer iemand juist meewerkt) is niet toegestaan.
+- Huurmoord of bounty op iemand is niet toegestaan en valt onder RDM.
+- Één klap krijgen is **geen** reden om iemand te vermoorden.
+
+**Straffen:**
+- 1e keer: **80** taken  
+- 2e keer: **160** taken + **wapeninleveren**  
+- 3e keer: **500** taken + **wapeninleveren**
+
+* * *
+
+### Artikel 1.3 — Massa VDM/RDM (3 personen of meer)
+
+**VDM:** herhaaldelijk voertuigen/personen opzettelijk aanrijden, inclusief inrijden op een groep.  
+**RDM:** meerdere personen doden zonder geldige reden en/of roleplay.
+
+**Straffen:**
+- 1e keer: **160** taken  
+- 2e keer: **240** taken  
+- 3e keer: **750** taken
+
+---
+
+## Roleplay & gedrag
+
+### Artikel 2 — FailRP & Powergaming
+
+#### Powergaming
+Powergaming is het opzettelijk creëren van een scenario dat jou oneerlijk voordeel geeft.
+
 Voorbeelden:
+- `/me` pakt communicatiemiddelen én wapens in één keer (moet apart).
+- Rijden en iemand tegelijk vastbinden.
+- Een dood persoon verstoppen (water/bosje) zodat hij/zij niet geholpen kan worden.
+- Rennen terwijl je porto ingedrukt houdt met wapen vast.
+- In hostage-situatie extra agenten hostage nemen.
+- Terwijl je iemand onder schot hebt, op anderen schieten.
+- Emote abuse.
+- Tijdens achtervolging/shootout/wapen gericht of andere RP op de brug: **niet** van de brug af het water in springen.
+- Trein/parachute gebruiken **mid RP**.
+- High-ground campen waar niemand bij je kan.
+- Met handen omhoog “weg lopen” uit scenario en daarna weer meedoen.
+- Misbruik van TP-locaties (huizen, treinen, loodsen, liften).
+- Gebouwen zomaar “holden” terwijl je nog verder kan.
 
-Je wapen pakken terwijl er een wapen op je al gericht staat.
-Schieten op mensen die je vrienden/gang leden/agenten onder schot houden is strafbaar.
-Porto / Noodknop gebruiken terwijl je onder schot staat.
- 
-als er een wapen op je gericht staat lever je ten aller tijden je vuurwapen in! ook als de gene een ander wapen roept dan die je opzak hebt omdat hij/zij dit verkeerd gezien heeft
- 
-''verhaal" halen bij overheid omdat je bandjes geschoten wordt valt ook onder NVOL
- 
-Voor(zij)kant handsuppen is NVOL. Ligt er wel aan hoe hard je rijd.
-Achter(zij)kant is geen NVOL. De afstand bepaald of het wel of geen NVOL is.
-(Staff bepaald altijd of het NVOL is of niet)
- 
-Straffen:
-1e keer: 50 taken
-2e keer: 100 Taken + Warn
-3e keer: 200 taken + Warn
+#### Carry Abuse
+- Je plaatst iemand via de achterkant in de **kofferbak**.
+- Alleen kofferbak telt (geen “achterbank” varianten).
 
-Artikel 5. New Life Rule
+!!! info "Carry"
+    De persoon die gecarried wordt krijgt altijd een **inventory wipe**.
 
-Wanneer hij/zij tijdens een scenario dood wordt verklaard of een new life rule krijgt van een staflid wordt verwacht het vorige leven te vergeten.
-Het is dus NIET toegestaan om terug te komen naar een scenario wanneer je al bent dood verklaard.
-LET OP: Als je omhoog geholpen wordt door ambu/politie/kmar, heb je GEEN New Life Rule en weet je alles nog vanaf de eerste minuut.
- 
+#### FailRP
+- Niet meewerken in roleplay.
+- Onrealistische acties die in het echt niet kunnen.
+- Holster gebruiken zonder zichtbare holster (holster moet zichtbaar zijn).
+- Als je volledig ingesloten bent: niet zomaar omver rijden/beuken om te ontsnappen.
 
- 
-Straffen:
+**Straffen:**
+- 1e keer: **70** taken  
+- 2e keer: **150** taken + **warn**  
+- 3e keer: **500** taken + **2 warns**
 
-1e keer: 60 taken
-2e keer: 120 taken
-3e keer: 240 taken + Warn
+* * *
 
-Artikel 6. Offroad/Gta drivestyle.
-Er wordt van de inwoners verwacht dat ze op een realistische manier door de stad heen rijden.
-Dus geen jump van bergen af of met 200 km/h door de stad heen rijden.
-  
+### Artikel 3 — (Cop)baiten
+
+**Copbaiten:** expres ambtenaren uitlokken, o.a.:
+- Doen alsof je een vraag hebt en telkens in de buurt blijven.
+- Op en neer rijden in dezelfde straat om contact te zoeken en te “teasen”.
+
+**Baiten:** burgers uitlokken om te irriteren/bezighouden of om een wapen te laten trekken.
+
+**Straffen:**
+- 1e keer: **30** taken  
+- 2e keer: **60** taken  
+- 3e keer: **100** taken + **warn**
+
+* * *
+
+### Artikel 4 — No Value Of Life (NVOL)
+
+Je hecht geen waarde aan je leven, bijvoorbeeld:
+- Wapen pakken terwijl er al een wapen op je gericht staat.
+- Schieten op mensen die vrienden/gangleden/agenten onder schot houden.
+- Porto/noodknop gebruiken terwijl je onder schot staat.
+
+!!! note "NVOL & staff"
+    Staff bepaalt uiteindelijk of iets **NVOL** is (o.a. bij handsuppen/snelheid/afstand).
+
+Extra:
+- Als er een wapen op je gericht staat lever je **altijd** je vuurwapen in (ook als iemand het verkeerd ziet).
+- “Verhaal halen” bij overheid omdat je bandjes geschoten zijn valt ook onder NVOL.
+- Voor(zij)kant handsuppen kan NVOL zijn (afhankelijk van snelheid); achter(zij)kant meestal niet (afstand bepalend).
+
+**Straffen:**
+- 1e keer: **50** taken  
+- 2e keer: **100** taken + **warn**  
+- 3e keer: **200** taken + **warn**
+
+* * *
+
+### Artikel 5 — New Life Rule
+
+Als je tijdens een scenario dood wordt verklaard of NLR krijgt van staff, dan vergeet je het vorige leven.
+
+- Je mag **niet** terugkomen naar dat scenario wanneer je dood verklaard bent.
+- Word je omhoog geholpen door ambu/politie/kmar? Dan heb je **geen** NLR en weet je alles nog.
+
+**Straffen:**
+- 1e keer: **60** taken  
+- 2e keer: **120** taken  
+- 3e keer: **240** taken + **warn**
+
+* * *
+
+### Artikel 6 — Offroad / GTA drivestyle
+
+Er wordt verwacht dat je realistisch rijdt:
+- Geen jumps van bergen.
+- Niet met 200 km/h door de stad.
+
 Alle overige voertuigen mogen niet offroad, tenzij er sprake is van een duidelijk zandpad.
- 
- 
-Straffen:
 
-1e keer: 30 taken
-2e keer: 60 taken
-3e keer: 90 taken
- 
-Artikel 7. OOC Praten/karakter breken.
-Het is ten alle tijden verboden om out of character te gaan in een roleplay.
- 
-Bijvoorbeeld:
+**Straffen:**
+- 1e keer: **30** taken  
+- 2e keer: **60** taken  
+- 3e keer: **90** taken
 
-Praten in /me terwijl je dood bent
-''Kan iemand reageren op mijn report'' berichten in twitter zetten.
- 
-Straffen:
-1e keer: 50 taken
-2e keer: 75 taken
-3e keer: 150 taken + Warn
+* * *
 
-Artikel 8. Kloten/scenario's verstoren.
-Verstoor jij een scenario van een andere burger dan zal je ook hierop worden bestraft.
-Het is ten allen tijden verboden om de RP van een overheidsinstantie te verstoren wanneer zij een persoon aan het reanimeren zijn.
-Je mag niet handsuppen om iemand verplicht te reanimeren.
- 
-Op het moment dat er een gijzeling/ov of dergelijke aan de gang is en er al politie zichtbaar aangekoppeld is mag je niet meer aankoppelen op de locatie.
- 
-Straffen:
+### Artikel 7 — OOC praten / karakter breken
 
-1e keer: 75 taken
-2e keer: 150 taken + Warn
-3e keer: 200 taken + warn
+OOC gaan tijdens RP is verboden.
 
-Artikel 9 Schelden/spammen
-Overmatig schelden/spammen zal worden bestraft.
-Het gericht schelden met hedendaagse ziektes is niet toegestaan!
-Één keer schelden met scheldwoorden in andere talen is toegestaan, mits dit niet persoonlijk gericht wordt bedoeld.
-Met gericht bedoelen we dat je bijvoorbeeld meermaals scheldt met ziektes, familie betrekken en hiermee door blijft gaan.
- 
-Het gericht schelden richting overheidsbanen is ten alle tijden verboden.
+Voorbeelden:
+- Praten in `/me` terwijl je dood bent.
+- “Kan iemand reageren op mijn report” op Twitter zetten.
 
- 
-Straffen:
+**Straffen:**
+- 1e keer: **50** taken  
+- 2e keer: **75** taken  
+- 3e keer: **150** taken + **warn**
 
-1e keer: 30 taken
-2e keer: 70 taken + Warn
-3e keer: 140 taken + Warn
+* * *
 
-Artikel 10.2 Disrespect naar staffleden.
-Heb ten alle tijden respect voor de staffleden, ook als jij het er niet mee eens bent.
-Het verstoren van een staff zaak is niet toegestaan.
-Ook als een stafflid iets aan jou vraagt en je negeert dit dan zul je hierop kunnen worden bestraft.
- 
-Straffen:
+### Artikel 8 — Scenario’s verstoren
 
-1e keer: 75 taken + Warn
-2e keer: 140 taken + Warn
-3e keer: 300 taken + Warn
+Scenario’s van andere burgers verstoren is strafbaar.
 
-Artikel 11. NEP Impersonatie.
-Het is verboden om jezelf te verkleden/voordoen als iemand van een overheidsbaan/stafmedewerker/offi-gangmember en/of dit beroep na te doen. (Zelfde geldt in porto!)
-Dus dit betekent dat je geen staff/politie/offi-gang of andere overheidsdienst kleding aan mag.
- 
-Straffen:
+- RP van overheid verstoren tijdens reanimatie is verboden.
+- Je mag niet handsuppen om iemand te verplichten te reanimeren.
+- Bij gijzeling/OV: als politie zichtbaar aangekoppeld is mag je niet meer aankoppelen op locatie.
 
-1e keer: 50 taken
-2e keer: 75 taken 
-3e keer: 100 taken + Warn
+**Straffen:**
+- 1e keer: **75** taken  
+- 2e keer: **150** taken + **warn**  
+- 3e keer: **200** taken + **warn**
 
-Artikel 10. Reports/staffzaken.
-Wanneer hij/zij niet op een serieuze manier een report aanmaakt kan deze persoon hierop worden bestraft.
-Wanneer hij/zij een staffzaak aangaat voor iets wat nergens op slaat of mid-scenario de wachtkamer in komt, kan deze persoon hierop worden bestraft.
-Je dient ook altijd respectvol te blijven in een staffzaak zodra je zomaar een staffzaak verlaat of geen respect of schelden hebt volgens de straff hieronder.
- 
-Straffen:
+* * *
 
-1e keer: 30 taken
-2e keer: 50 taken
-3e keer: 75 taken + Warn game
+### Artikel 9 — Schelden / spammen
 
-6e keer: Permanent verbannen en mag een unban ticket aanmaken na een maand.
+Overmatig schelden/spammen wordt bestraft.
 
-Artikel 11. Scammen/oplichten. (Voor giftcards is verboden)
-Het scammen/oplichten van een burger is toegestaan tot een maximum geldbedrag van 100K. (Met uitzondering van loodsen en giftcards, dat is niet toegestaan.)
-Scammen voor spullen mag niet voor boven de 100K. Scammen voor wapens/attachments mag altijd.
-Het scammen van vuurwapens en attachments is toegestaan, mits je altijd bij je draagt wat je aanbiedt in je F2.
- 
-Wat mag niet tijdens scammen/oplichten:
+- Gericht schelden met hedendaagse ziektes is niet toegestaan.
+- Eén keer schelden in andere talen mag zolang het niet persoonlijk gericht is.
+- Gericht schelden richting overheidsbanen is altijd verboden.
 
-Het scammen van voertuigen.
-Scammen in greenzones.
- 
-Ben jij gescammed? Dan mag je binnen 24 uur een wraakactie in RP starten. Je kunt dan het wapen of geld waarvoor je gescammed bent terug eisen.
-Let op: als je een stafzaak hebt aangemaakt, vervalt de mogelijkheid om wraak te nemen. Je moet kiezen tussen een stafzaak of een wraakactie.
- 
-Straffen scam 100K: 
-1e keer: 100 taken + Terugbetalen
-2e keer: 200 taken + Warn + Terugbetalen
-3e keer: 400 taken + Warn + Terugbetalen
-  
-Scammen voor giftcards is ten alle tijden verboden:
-Het oplichten met Giftcards = perm ban.
+**Straffen:**
+- 1e keer: **30** taken  
+- 2e keer: **70** taken + **warn**  
+- 3e keer: **140** taken + **warn**
 
- 
-Artikel 12 Voertuigen mid scenario
-Het is NOOIT toegestaan om tijdens een scenario een nieuw voertuig te pakken uit het garage .
-Je mag wel andere voertuigen klaarzetten of afspreken met je vrienden om je op te halen.
- 
-Straffen:
+---
 
-1e keer: 50 taken
-2e keer: 75 taken
-3e keer: 125 taken + Warn
+## Staff & integriteit
 
-Artikel 13 Landen van helikopters/vliegtuigen
-Het is verplicht om te landen op een helipad, een landingsbaan of of Parkeerplaats tenminste in een omgeving van minimaal 50 meter van andere burgers.
- 
-Straf: Waarschuwing (Bij meerdere keren Taken!)
- 
+### Artikel 10 — Reports / staffzaken
 
-Artikel 14 Overheidsvoertuigen/voertuigen in de greenzone stelen.
+Niet-serieuze reports of staffzaken starten “voor niks” kan bestraft worden. Respectvol blijven is verplicht, ook als je het niet eens bent.
 
-Het is verboden om als burger een overheidsvoertuig te stelen/besturen. Ook als er lightbars op zitten (Of deze actie is gericht op Roleplay!)
-En is het niet toegestaan om de auto van een burger in de greenzone te stelen.
- 
-Straf: Waarschuwing (Medere keren taken).
+**Straffen:**
+- 1e keer: **30** taken  
+- 2e keer: **50** taken  
+- 3e keer: **75** taken + **warn game**  
+- 6e keer: **permanent verbannen** (unban ticket na 1 maand)
 
-Artikel 15. Realistisch/onrealistisch pitten.
+* * *
 
-Pitten tot een max van 100KM is toegestaan.
-Een pit is: Tegen de linker/rechter achterzijde van het voertuig tikken met de linker/rechter voorzijde van jouw voertuig.
-Neus tegen neus met 100 km/u is geen pit. Een motor is niet te pitten, ook niet met een andere motor. Zelfde geldt voor zijkant pitten.
-Staff mag ook concluderen dat het een verkeersongeluk is.
- 
-Straffen:
+### Artikel 10.2 — Disrespect naar staff
 
-1e keer: 70 taken
-2e keer: 150 taken + Warn
-3e keer: 200 taken + Warn
+Altijd respect tonen naar staffleden. Staffzaak verstoren of staff negeren kan bestraft worden.
 
-Artikel 15. Combatloggen.
-Het uitloggen tijdens een scenario is verboden.
-Gebeurt dit niet opzettelijk heb je 5 minuten de tijd om terug te komen (Bij langere problemen Wachtkamer!).
-Bij combat loggen wordt ten allen tijde je inventory geleegd.
- 
-Straffen:
+**Straffen:**
+- 1e keer: **75** taken + **warn**  
+- 2e keer: **140** taken + **warn**  
+- 3e keer: **300** taken + **warn**
 
-1e keer: 75 taken + Warn
-2e keer: 200 taken + Warn
-3e keer: 350 taken + Warn
- 
-Artikel 16. Greenzone vluchten/campen.
-Het bij het achter volgen en vluchten naar Greenzones is niet toegestaan.
- 
-Straffen:
+* * *
 
-1e keer: 50 taken
-2e keer: 100 taken + Warn
-3e keer: 200 taken + Warn
- 
-Artikel 17. Meta Gamen.
-Het is niet toegestaan om informatie te krijgen buiten de game om waarmee jij voordeel hebt in game of dingen te weten krijgt die je nooit had kunnen weten.
-In een call zitten met je vrienden die aanwezig zijn in de stad is dus ook niet toegestaan!
- 
-Straffen:
+### Artikel 11.1 — NEP impersonatie
 
-1e keer: 75 taken 
-2e keer: 150 taken + Warn
-3e keer: 200 taken + Warn
+Je voordoen als overheid/staff/offi-gang (ook in porto) is verboden. Je mag dus geen staff/politie/offi-gang of andere overheidsdienst-kleding dragen.
 
-Artikel 17 Stream Snipen.
-Het is niet toegestaan om informatie te verkrijgen uit een stream gebruikt zal dit gezien worden als het misbruiken van OOC informatie.
- 
-Straffen:
+**Straffen:**
+- 1e keer: **50** taken  
+- 2e keer: **75** taken  
+- 3e keer: **100** taken + **warn**
 
-1e keer: 100 taken 
-2e keer: 200 taken + Warn
-3e keer: 12 uur BAN
- 
-Artikel 18. Stemherkenning/vervorming
-Wanneer je iemand zijn personage herkent aan zijn stem maar met een masker mag je dit niet gebruiken.
-Je mag alleen een personage herkennen wanneer hij aangeeft die persoon te zijn. (Het is niet toegestaan om voor te doen als iemand anders in de stad.)
-Je mag geen Stemvervorming gebruiken, of toesteming hebben van Staff-leden. (Politie of KMar of DSI mag dit wel.)
- 
-Straffen:
+* * *
 
-1e keer: Waarschuwing mondeling.
-2e keer: 50 Taken + Warn
-3e keer: 120 Taken + Warn
+### Artikel 11.2 — Scammen / oplichten (giftcards verboden)
 
-Artikel 18 Lichte exploits / bug abuse
-Elke software die een voordeel in het spel geeft behalve een crosshair is niet toegestaan.
-Onder lichtere bug abuse valt bijvoorbeeld:
+Scammen/oplichten is toegestaan tot max **100K**.
 
-Mod packs waardoor je geen water / bomen meer ziet of dat je door dingen heen kan kijken wanneer je dit normaal niet kan.
-Flawless.
- 
-Straffen:
-1e keer: 75 Taken + Warn
-2e keer: 200 Taken + Warn
-3e keer: 600 + Warn
+- Loodsen & giftcards: **niet toegestaan**
+- Scammen voor spullen: niet boven **100K**
+- Scammen voor wapens/attachments: mag altijd
+- Wapens/attachments scammen mag, mits je dit bij je draagt en aanbiedt via F2
 
-##** Artikel 18 Zware exploits/bug abuse/duplicaten
-Dusdanig erg dat een persoon er veel voordeel uit haalt of dat er economische schade tot gevolg is.
- 
-Straf:
+Niet toegestaan:
+- Voertuigen scammen
+- Scammen in greenzones
 
-Permanente ban + account wipe zonder unban mogelijkheid.
+Ben jij gescammed? Dan mag je binnen **24 uur** een wraakactie starten in RP om geld/wapen terug te eisen.  
+Let op: als je een staffzaak aanmaakt, vervalt de mogelijkheid tot wraakactie.
 
-Artikel 19 Hacken, cheaten en/of spoofen
- 
-Het gebruik van hacks, cheats in FiveM en/of GTA op je pc is strikt verboden.
-Bij een vermoeden van het gebruik van cheats kan een bevoegd staflid, op basis van redelijke verdenking, een PC-check uitvoeren.******
- 
-Regels rond PC-checks:
+**Straffen (scam 100K):**
+- 1e keer: **100** taken + **terugbetalen**  
+- 2e keer: **200** taken + **warn** + **terugbetalen**  
+- 3e keer: **400** taken + **warn** + **terugbetalen**
 
-Wanneer je wordt opgeroepen om naar de wachtkamer te komen voor een PC-check, moet je onmiddellijk naar de wachtkamer gaan.
-Zodra een staflid daarom vraagt, moet je direct je scherm delen, uitstel of weigering wordt niet geaccepteerd.
-Het is niet toegestaan FiveM te verlaten of af te sluiten, tenzij een staflid dit uitdrukkelijk toestaat.
-Het weigeren, te laat reageren, of niet volledig meewerken aan de PC-check resulteert in een permanente verbanning.
- 
-Verboden handelingen:
-Het gebruik van hacks, cheats, injectors of soortgelijke software.
-Het spoofen of op welke manier dan ook proberen een ban te omzeilen.
-Het zelf uitvoeren van een PC-check of het manipuleren van bewijsmateriaal.
-Het gebruik van een DMA-kaart of andere hardwarematige middelen om te cheaten of een ban te omzeilen.
- 
-Straf:
-Permanente ban & Account wipe
- 
- 
-Artikel 20. IRL Trading.
-Het is verboden om met echt geld in-game goederen te kopen of verkopen, inclusief auto's en andere items. Alle aankopen moeten plaatsvinden via de donatie winkel. Het niet naleven van deze regel resulteert in de volgende sancties.
- 
-Straf:
+!!! danger "Giftcards"
+    Oplichten met giftcards = **perm ban**.
 
-Permanente ban & account wipe.
-Aankoper: Account Wipe.
- 
-Artikel 21. Adresgegevens Leaken/Booten/DDossen.
-Check altijd via live scherm de discord van het slachtoffer en controleer zijn discord APP of je daar bewijs LIVE kan zien op zijn scherm! Een screenshot of Discord in Browser is GEEN geldig bewijs!
-Straf:
-Pban
- 
-Artikel 26. Bedreigingen.
-In principe komt het heel vaak voor dat mensen boos zijn tegen elkaar en lelijke dingen zeggen. Of ze zeggen: ik sla je in elkaar of ik kom je opzoeken.
-Vaak zijn die ruzies na een uur of dag toch vaak wel weer opgelost.
-Het is voor ons dan ook moeilijk een straf daaraan te bepalen!
-Maar als wij echt ERNSTIGE opruiing zien en afspraken met MEERDERE mensen onderling om iemand op te zoeken dan zien wij dat wel als ERNSTIG!
-Let op, dit moet ook weer aantoonbaar LIVE op pc van slachtoffer in Discord APP. Discord Browser of screenshots zijn NIET geldig.
- 
-Straf:
+---
 
-PBAN (Discord + Game).
+## Voertuigen & acties
 
-Artikel 22. Liegen in een staffzaak/tegen stafflid
-Het liegen in enige vorm in een staffzaak is niet toegestaan. Zodra er bewijs is dat er is gelogen in een staffzaak dan gelden de straffen hieronder:
- 
-Straffen:
+### Artikel 12 — Voertuigen mid-scenario
 
-1e keer: 75 taken + Warn
-2e keer: 250 taken + Warn
-3e keer: 400 Taken + Warn
-Bij het liegen M.B.T. een refund zal dit direct resulteren in een  p-ban.
+Tijdens een scenario mag je nooit een nieuw voertuig uit de garage pakken.  
+Je mag wel voertuigen klaarzetten of afspreken dat iemand je ophaalt.
 
-Artikel 27. Negative content
-Het maken van content over in een negatieve vorm is niet toegestaan.
- 
-Straffen:
+**Straffen:**
+- 1e keer: **50** taken  
+- 2e keer: **75** taken  
+- 3e keer: **125** taken + **warn**
 
-1e keer: Ban tot video offline + 12 uur ban.
-2e keer: Ban tot video offline + 1 dag ban.
-3e keer: Ban tot video offline + 1 week ban.
-4e keer: Ban tot video offline + 2 weken ban.
-5e keer: Permanent verbannen en mag een unban ticket aanmaken na een maand en video offline.
-Artikel 28. Ryderz Roleplay Zwart maken
-Het zwart maken of in een slecht licht zetten van Ryderz is niet toegestaan.
-Staff leden zwart maken of in een slecht licht zetten valt onder ## Artikel  Disrespect naar staffleden.
+* * *
 
- 
-Straffen:
+### Artikel 13 — Landen helikopter/vliegtuig
 
-1e keer: 12 uur ban.
-2e keer: 1 dag ban.
-3e keer: 1 week ban.
+Landen is verplicht op helipad/landingsbaan/parkeerplaats en minimaal **50 meter** van andere burgers.
 
- 
-Artikel 28. Vulgariteit & Seksuele Handelingen
-Op Ryderz Roleplay hanteren we een streng beleid tegen vulgair gedrag/seksuele scenario's.
-Dit omvat o.a. extreem seksueel taalgebruik, seksuele intimidatie en handelingen met seksuele insteek.
- 
-Deze straf is alleen te geven door Head Management of hoger.
- 
-Straf: Permanente ban met eventuele kans op unban na 6 maanden.
+**Straf:** waarschuwing *(bij meerdere keren: taken)*
+
+* * *
+
+### Artikel 14 — Overheidsvoertuigen / greenzone stelen
+
+- Overheidsvoertuig stelen/besturen als burger is verboden (ook met lightbars), tenzij dit gericht is op roleplay.
+- Voertuigen van burgers stelen in de greenzone is niet toegestaan.
+
+**Straf:** waarschuwing *(bij meerdere keren: taken)*
+
+* * *
+
+### Artikel 15.1 — Realistisch pitten
+
+- Pitten tot max **100 km/u** is toegestaan.
+- Pit = tik tegen linker/rechter achterzijde met jouw linker/rechter voorzijde.
+- Neus-tegen-neus met 100 km/u is **geen** pit.
+- Motoren kun je niet pitten (ook niet met motor).
+- Zijkant pitten is niet toegestaan.
+- Staff kan oordelen dat het een verkeersongeluk was.
+
+**Straffen:**
+- 1e keer: **70** taken  
+- 2e keer: **150** taken + **warn**  
+- 3e keer: **200** taken + **warn**
+
+* * *
+
+### Artikel 15.2 — Combatloggen
+
+Uitloggen tijdens een scenario is verboden.
+
+- Niet opzettelijk? Dan heb je **5 minuten** om terug te komen (bij langere problemen: wachtkamer).
+- Bij combatloggen wordt je inventory geleegd.
+
+**Straffen:**
+- 1e keer: **75** taken + **warn**  
+- 2e keer: **200** taken + **warn**  
+- 3e keer: **350** taken + **warn**
+
+* * *
+
+### Artikel 16 — Greenzone vluchten/campen
+
+Achtervolgen en vluchten naar greenzones is niet toegestaan.
+
+**Straffen:**
+- 1e keer: **50** taken  
+- 2e keer: **100** taken + **warn**  
+- 3e keer: **200** taken + **warn**
+
+---
+
+## Informatie-misbruik & cheats
+
+### Artikel 17.1 — Metagamen
+
+OOC-informatie gebruiken voor voordeel in-game is verboden.  
+In een call zitten met vrienden die in de stad aanwezig zijn is ook verboden.
+
+**Straffen:**
+- 1e keer: **75** taken  
+- 2e keer: **150** taken + **warn**  
+- 3e keer: **200** taken + **warn**
+
+* * *
+
+### Artikel 17.2 — Stream snipen
+
+Informatie uit een stream gebruiken = misbruik van OOC-informatie.
+
+**Straffen:**
+- 1e keer: **100** taken  
+- 2e keer: **200** taken + **warn**  
+- 3e keer: **12 uur ban**
+
+* * *
+
+### Artikel 18.1 — Stemherkenning/vervorming
+
+- Iemand herkennen aan stem terwijl diegene gemaskerd is mag je niet gebruiken.
+- Alleen herkennen als iemand zelf aangeeft die persoon te zijn.
+- Stemvervorming is niet toegestaan zonder toestemming van staff. (Politie/KMar/DSI mag dit wel.)
+
+**Straffen:**
+- 1e keer: mondelinge waarschuwing  
+- 2e keer: **50** taken + **warn**  
+- 3e keer: **120** taken + **warn**
+
+* * *
+
+### Artikel 18.2 — Lichte exploits / bug abuse
+
+Software die voordeel geeft is verboden (behalve crosshair).
+
+Voorbeelden:
+- Mod packs (geen water/bomen, door dingen heen kijken).
+- Flawless.
+
+**Straffen:**
+- 1e keer: **75** taken + **warn**  
+- 2e keer: **200** taken + **warn**  
+- 3e keer: **600** taken + **warn**
+
+* * *
+
+### Artikel 18.3 — Zware exploits/bug abuse/duplicaten
+
+Zo ernstig dat iemand er veel voordeel uit haalt of dat er economische schade ontstaat.
+
+**Straf:** permanente ban + account wipe (geen unban mogelijkheid)
+
+* * *
+
+### Artikel 19 — Hacken, cheaten en/of spoofen
+
+Hacks/cheats (FiveM/GTA) zijn strikt verboden. Bij verdenking kan staff een PC-check uitvoeren.
+
+**Regels rond PC-checks:**
+- Bij oproep: direct naar wachtkamer.
+- Op verzoek: direct scherm delen (uitstel/weigering niet toegestaan).
+- FiveM niet afsluiten tenzij staff dit toestaat.
+- Weigeren/te laat reageren/niet volledig meewerken = permanente ban.
+
+**Verboden handelingen:**
+- Hacks/cheats/injectors of soortgelijke software.
+- Spoofen of ban omzeilen.
+- Bewijs manipuleren of “zelf” PC-checks uitvoeren.
+- DMA-kaart of andere hardware om te cheaten/ban te omzeilen.
+
+**Straf:** permanente ban + account wipe
+
+* * *
+
+### Artikel 20 — IRL Trading
+
+Met echt geld in-game goederen kopen/verkopen is verboden (o.a. auto’s/items).  
+Aankopen moeten via de donatiewinkel.
+
+**Straf:** permanente ban + account wipe  
+**Aankoper:** account wipe
+
+* * *
+
+### Artikel 21 — Adresgegevens leaken/booten/DDOS’en
+
+Bewijs moet **LIVE** zichtbaar zijn via scherm delen in de **Discord app**.  
+Screenshots of Discord in browser zijn geen geldig bewijs.
+
+**Straf:** p-ban
+
+---
+
+## Overig
+
+### Artikel 26 — Bedreigingen
+
+Ernstige opruiing of afspraken met meerdere mensen om iemand op te zoeken wordt gezien als ernstig.  
+Ook hier: bewijs moet **LIVE** zichtbaar zijn in de Discord app (geen browser/screenshot).
+
+**Straf:** p-ban (Discord + game)
+
+* * *
+
+### Artikel 27 — Negative content
+
+Negatieve content maken over Ryderz is niet toegestaan.
+
+**Straffen:**
+- 1e keer: ban tot video offline + **12 uur** ban  
+- 2e keer: ban tot video offline + **1 dag** ban  
+- 3e keer: ban tot video offline + **1 week** ban  
+- 4e keer: ban tot video offline + **2 weken** ban  
+- 5e keer: permanent verbannen (unban ticket na 1 maand) + video offline
+
+* * *
+
+### Artikel 28.1 — Ryderz Roleplay zwart maken
+
+Ryderz (of staff) zwart maken of in slecht licht zetten is niet toegestaan.  
+Staff zwart maken valt ook onder “Disrespect naar staff”.
+
+**Straffen:**
+- 1e keer: **12 uur** ban  
+- 2e keer: **1 dag** ban  
+- 3e keer: **1 week** ban
+
+* * *
+
+### Artikel 28.2 — Vulgariteit & seksuele handelingen
+
+Extreem vulgair/seksueel gedrag of scenario’s zijn niet toegestaan, o.a.:
+- Extreem seksueel taalgebruik
+- Seksuele intimidatie
+- Seksuele handelingen met seksuele insteek
+
+!!! danger "Bevoegdheid"
+    Deze straf is alleen te geven door **Head Management** of hoger.
+
+**Straf:** permanente ban (eventueel kans op unban na 6 maanden)
