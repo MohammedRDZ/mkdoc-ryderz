@@ -238,10 +238,10 @@ Je voordoen als overheid/staff/offi-gang (ook in porto) is verboden. Je mag dus 
 
 ### Artikel 11.2 — Scammen / oplichten (giftcards verboden)
 
-Scammen/oplichten is toegestaan tot max **100K**.
+Scammen/oplichten is toegestaan tot max **30K**.
 
 - Loodsen & giftcards: **niet toegestaan**
-- Scammen voor spullen: niet boven **100K**
+- Scammen voor spullen: niet boven **30K**
 - Scammen voor wapens/attachments: mag altijd
 - Wapens/attachments scammen mag, mits je dit bij je draagt en aanbiedt via F2
 
@@ -252,7 +252,7 @@ Niet toegestaan:
 Ben jij gescammed? Dan mag je binnen **24 uur** een wraakactie starten in RP om geld/wapen terug te eisen.  
 Let op: als je een staffzaak aanmaakt, vervalt de mogelijkheid tot wraakactie.
 
-**Straffen (scam 100K):**
+**Straffen (scam 30K):**
 - 1e keer: **100** taken + **terugbetalen**  
 - 2e keer: **200** taken + **warn** + **terugbetalen**  
 - 3e keer: **400** taken + **warn** + **terugbetalen**
