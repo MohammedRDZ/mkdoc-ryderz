@@ -1,78 +1,76 @@
-#  Straffen & Taken Systeem 
+# Straffen & Taken Systeem
 
 Bij Ryderz RP hanteren we een duidelijk, eerlijk en streng taakstraf-systeem.  
-Wanneer een speler de regels overtreedt, krijgt hij of zij een taakstraf opgelegd.  
-De RP kan pas worden hervat zodra **alle taken volledig en correct zijn uitgevoerd**.
+Wanneer een speler de regels overtreedt, krijgt hij/zij een taakstraf opgelegd.  
+De RP kan pas worden hervat zodra **alle taken volledig en correct zijn uitgevoerd én door staff zijn goedgekeurd**.
 
-Elke taak duurt **30 seconden** en wordt uitgevoerd **onder toezicht van staff**.
+**1 taak = 30 seconden** actieve uitvoering (schoonmaken, helpen, onderhoud).  
+Taken worden uitgevoerd **onder toezicht van staff** (of met geldig bewijs).
 
-> ⚠️ Staff behoudt het recht om extra taken toe te voegen wanneer het gedrag, de houding of de ernst van de overtreding dit noodzakelijk maakt.
+!!! warning "Staff bevoegdheid"
+    Staff behoudt het recht om **extra taken en/of warns** toe te voegen wanneer gedrag, houding of ernst van de overtreding dit vereist.
 
 ---
 
-## ⚙️ Werking van het systeem
+## ⚙️ Hoe werkt het?
 
-- Iedere overtreding levert veegtaken of community service taken op.  
-- **1 taak = 30 seconden** actieve RP (schoonmaken, helpen, onderhoud).  
-- Spelers mogen pas verder spelen als de taakstraf door staff is **goedgekeurd**.  
-- Elke overtreding geeft **1 of meerdere warns**.  
-- Staff mag taken verhogen bij:
+- Iedere overtreding levert **taken** op (community service).
+- Bij overtredingen kunnen ook **warns** worden gegeven.
+- Taken kunnen verhoogd worden bij:
   - Niet meewerken  
   - Disrespect  
   - Herhaald gedrag  
 
 ---
 
-## 📋 Taken & Warns per overtreding
+## 📋 Standaard straffen (Taken & Warns)
 
 | Overtreding | Taken (30s per taak) | Warns | Opmerkingen |
-|------------|----------------------|-------|-------------|
-| Kleine overtreding (schelden, storend gedrag, lichte fout) | 🧹 30 taken | ⚠️ 1 warn | Eerste waarschuwing |
-| FailRP / NVOL | 🧹 50 taken | ⚠️ 1 warn | Geen waarde hechten aan leven |
-| RDM | 🧹 80 taken | ⚠️ 2 warns | Iemand doden zonder RP/redenen |
-| VDM | 🧹 80 taken | ⚠️ 2 warns | Aanrijden zonder RP |
-| Metagaming / Powergaming | 🧹 70 taken | ⚠️ 2 warns | OOC-informatie of voordeel |
-| Combat Logging | 🧹 100 taken | ⚠️ 3 warns | Uitloggen tijdens actie/arrest |
-| Onterecht rippen | 🧹 70 taken | ⚠️ 2 warns | Beroven zonder geldige RP |
-| Bug Abuse / Exploit | 🧹 120 taken | ⚠️ 3 warns | Ernstige overtreding |
-| Disrespect naar staff | 🧹 100 taken | ⚠️ 3 warns | Belediging of ongehoorzaamheid |
-| Herhaalde overtreding (binnen 7 dagen) | 🧹 150 taken | ⚠️ +1 warn | Laatste kans |
-
-> 🔸 Staff mag bij iedere overtreding extra taken geven afhankelijk van gedrag.
+|------------|----------------------:|------:|-------------|
+| Kleine overtreding (schelden, storend gedrag, lichte fout) | 30 | 1 | Eerste waarschuwing |
+| FailRP / NVOL | 50 | 1 | Geen waarde hechten aan leven |
+| RDM | 80 | 2 | Iemand doden zonder geldige RP/redenen |
+| VDM | 80 | 2 | Aanrijden zonder geldige reden/RP |
+| Metagaming / Powergaming | 70 | 2 | OOC-info of oneerlijk voordeel |
+| Combat Logging | 100 | 3 | Uitloggen tijdens actie/arrest |
+| Onterecht rippen | 70 | 2 | Beroven zonder geldige RP |
+| Bug Abuse / Exploit | 120 | 3 | Ernstige overtreding |
+| Disrespect naar staff | 100 | 3 | Belediging / ongehoorzaamheid |
+| Herhaalde overtreding (binnen 7 dagen) | 150 | +1 | Laatste kans |
 
 ---
 
-## ⚠️ Warn Systeem
+## ⚠️ Warn systeem
 
 | Totaal warns | Gevolg |
 |--------------|--------|
-| ⚠️ 1–2 warns | Taken uitvoeren + waarschuwing |
-| ⚠️ 3–4 warns | Extra taken + gesprek met staff |
-| ⚠️ 5 warns | Tijdelijke blokkering tot gesprek |
-| ⚠️ 6+ warns | Permanente ban (alleen via management terug) |
+| 1–2 warns | Taken uitvoeren + waarschuwing |
+| 3–4 warns | Extra taken + gesprek met staff |
+| 5 warns | Tijdelijke blokkering tot gesprek |
+| 6+ warns | Permanente ban (alleen via management terug) |
 
-> Warns verdwijnen niet vanzelf. Alleen head staff/management mag warns verwijderen bij goed gedrag.
-
----
-
-## 🧾 Uitvoering & Controle
-
-- Taken moeten onder staff toezicht of met bewijs (screenshot/video).  
-- Slecht of onvolledig uitgevoerde taken tellen niet mee.  
-- Straffen worden gelogd in het staff-systeem (speler, reden, taken, warns).  
-- Niet uitvoeren of trollen tijdens straf = extra taken of zwaardere straf.
+!!! note "Warns"
+    Warns verdwijnen niet automatisch. Alleen head staff/management kan warns verwijderen of verminderen.
 
 ---
 
-## 💬 Herziening & Gedrag
+## 🧾 Uitvoering & controle
 
-- Spelers mogen na **7 dagen goed gedrag** herziening aanvragen.  
-- Alleen head staff mag warns verminderen of taken kwijtschelden.  
-- Slecht gedrag tijdens straf = extra taken.
+- Taken moeten worden uitgevoerd **onder staff toezicht** of met **geldig bewijs** (screenshot/video).
+- Slecht of onvolledig uitgevoerde taken tellen niet mee.
+- Niet uitvoeren of trollen tijdens straf = **extra taken of zwaardere straf**.
+- Straffen worden gelogd in het staff-systeem (speler, reden, taken, warns).
 
 ---
 
-## 💡 Doel van het systeem
+## 💬 Herziening
+
+- Na **7 dagen goed gedrag** mag een speler herziening aanvragen.
+- Alleen head staff/management kan taken verminderen of warns aanpassen.
+
+---
+
+## 💡 Doel
 
 Het systeem is bedoeld om spelers te laten leren door doen.  
 Iedere fout heeft gevolgen, maar iedereen krijgt een kans om het goed te maken.
