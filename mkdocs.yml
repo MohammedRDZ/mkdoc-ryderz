@@ -1,25 +1,26 @@
 site_name: Ryderz Roleplay
-site_description: 'Wet en regelgeving van Ryderz roleplay'
+site_description: "Wet en regelgeving van Ryderz roleplay"
 site_url: https://apv.ryderzrp.nl
 
-repo_url: 'http://github.com/Ryderzroleplay/Ryderz-roleplay'
-repo_name: 'Ryderz Roleplay'
+repo_url: "https://github.com/MohammedRDZ/mkdoc-ryderz"
+repo_name: "Ryderz Roleplay"
 
 nav:
   - Home: index.md
   - Ryderz Team: team.md
-  - Algmene Regels: algemeen.md
+  - Algemene Regels: algemeen.md
   - Onderwereld Regels: onderwereld.md
   - Overheid: overheid.md
 
 theme:
   name: material
+  language: nl
+
   features:
     - navigation.instant
     - navigation.instant.progress
     - navigation.instant.preview
     - navigation.tracking
-    - navigation.tabs
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
@@ -27,30 +28,32 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.footer
+
   logo: logo.png
   favicon: logo.png
-  palette:
-   # Palette toggle for light mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
 
-    # Palette toggle for dark mode
+  palette:
+    # Light mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
 
-  language: nl
+    # Dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 
 extra:
   generator: false
+
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/akvhh7dREq
     - icon: fontawesome/brands/tiktok
       link: https://www.tiktok.com/@rdyzmo
+
   analytics:
     provider: google
     property: G-NV5M4K299L
