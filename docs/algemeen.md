@@ -2,12 +2,9 @@
 
 Welkom bij het officiële wetboek van **Ryderz Roleplay**. Hieronder vind je alle regels, artikelen, straffen en bepalingen die van toepassing zijn. Dit document is opgesteld voor duidelijkheid en consistentie binnen de roleplay-server.
 
-!!! warning "Let op"
-    Maak binnen **27 uur** een staffzaak (ticket), anders kan staff niets meer voor je betekenen.
-
 ---
 
-## Geweld & PvP
+## 1. Geweld & PvP
 
 ### Artikel 1.1 — VDM (Vehicle Deathmatch)
 
@@ -47,9 +44,9 @@ Het is verboden om iemand te vermoorden zonder betrokkenheid in het spelverloop.
 
 ---
 
-## Roleplay & gedrag
+## 2. Roleplay & gedrag
 
-### Artikel 2 — FailRP & Powergaming
+### Artikel 2.1 — FailRP & Powergaming
 
 #### Powergaming
 Powergaming is het opzettelijk creëren van een scenario dat jou oneerlijk voordeel geeft.
@@ -89,7 +86,7 @@ Voorbeelden:
 
 * * *
 
-### Artikel 3 — (Cop)baiten
+### Artikel 2.2 — (Cop)baiten
 
 **Copbaiten:** expres ambtenaren uitlokken, o.a.:
 - Doen alsof je een vraag hebt en telkens in de buurt blijven.
@@ -104,7 +101,7 @@ Voorbeelden:
 
 * * *
 
-### Artikel 4 — No Value Of Life (NVOL)
+### Artikel 2.3 — No Value Of Life (NVOL)
 
 Je hecht geen waarde aan je leven, bijvoorbeeld:
 - Wapen pakken terwijl er al een wapen op je gericht staat.
@@ -126,12 +123,12 @@ Extra:
 
 * * *
 
-### Artikel 5 — New Life Rule
+### Artikel 2.4 — New Life Rule (NLR)
 
 Als je tijdens een scenario dood wordt verklaard of NLR krijgt van staff, dan vergeet je het vorige leven.
 
 - Je mag **niet** terugkomen naar dat scenario wanneer je dood verklaard bent.
-- Word je omhoog geholpen door ambu/politie/kmar? Dan heb je **geen** NLR en weet je alles nog.
+- Word je omhoog geholpen door ambu/politie/KMar? Dan heb je **geen** NLR en weet je alles nog.
 
 **Straffen:**
 - 1e keer: **60** taken  
@@ -140,7 +137,7 @@ Als je tijdens een scenario dood wordt verklaard of NLR krijgt van staff, dan ve
 
 * * *
 
-### Artikel 6 — Offroad / GTA drivestyle
+### Artikel 2.5 — Offroad / GTA drivestyle
 
 Er wordt verwacht dat je realistisch rijdt:
 - Geen jumps van bergen.
@@ -155,7 +152,7 @@ Alle overige voertuigen mogen niet offroad, tenzij er sprake is van een duidelij
 
 * * *
 
-### Artikel 7 — OOC praten / karakter breken
+### Artikel 2.6 — OOC praten / karakter breken
 
 OOC gaan tijdens RP is verboden.
 
@@ -170,7 +167,7 @@ Voorbeelden:
 
 * * *
 
-### Artikel 8 — Scenario’s verstoren
+### Artikel 2.7 — Scenario’s verstoren
 
 Scenario’s van andere burgers verstoren is strafbaar.
 
@@ -185,7 +182,7 @@ Scenario’s van andere burgers verstoren is strafbaar.
 
 * * *
 
-### Artikel 9 — Schelden / spammen
+### Artikel 2.8 — Schelden / spammen
 
 Overmatig schelden/spammen wordt bestraft.
 
@@ -200,21 +197,24 @@ Overmatig schelden/spammen wordt bestraft.
 
 ---
 
-## Staff & integriteit
+## 3. Staff & integriteit
 
-### Artikel 10 — Reports / staffzaken
+### Artikel 3.1 — Reports / staffzaken
 
 Niet-serieuze reports of staffzaken starten “voor niks” kan bestraft worden. Respectvol blijven is verplicht, ook als je het niet eens bent.
+
+!!! warning "Let op"
+    Maak binnen **27 uur** een staffzaak (ticket), anders kan staff niets meer voor je betekenen.
 
 **Straffen:**
 - 1e keer: **30** taken  
 - 2e keer: **50** taken  
-- 3e keer: **75** taken + **warn game**  
+- 3e keer: **75** taken + **warn (ingame)**  
 - 6e keer: **permanent verbannen** (unban ticket na 1 maand)
 
 * * *
 
-### Artikel 10.2 — Disrespect naar staff
+### Artikel 3.2 — Disrespect naar staff
 
 Altijd respect tonen naar staffleden. Staffzaak verstoren of staff negeren kan bestraft worden.
 
@@ -225,7 +225,7 @@ Altijd respect tonen naar staffleden. Staffzaak verstoren of staff negeren kan b
 
 * * *
 
-### Artikel 11.1 — NEP impersonatie
+### Artikel 3.3 — NEP impersonatie
 
 Je voordoen als overheid/staff/offi-gang (ook in porto) is verboden. Je mag dus geen staff/politie/offi-gang of andere overheidsdienst-kleding dragen.
 
@@ -236,14 +236,14 @@ Je voordoen als overheid/staff/offi-gang (ook in porto) is verboden. Je mag dus 
 
 * * *
 
-### Artikel 11.2 — Scammen / oplichten (giftcards verboden)
+### Artikel 3.4 — Scammen / oplichten (giftcards verboden)
 
 Scammen/oplichten is toegestaan tot max **30K**.
 
 - Loodsen & giftcards: **niet toegestaan**
 - Scammen voor spullen: niet boven **30K**
 - Scammen voor wapens/attachments: mag altijd
-- Wapens/attachments scammen mag, mits je dit bij je draagt en aanbiedt via F2
+- Wapens/attachments scammen mag, mits je dit bij je draagt en aanbiedt via **F2**
 
 Niet toegestaan:
 - Voertuigen scammen
@@ -262,9 +262,9 @@ Let op: als je een staffzaak aanmaakt, vervalt de mogelijkheid tot wraakactie.
 
 ---
 
-## Voertuigen & acties
+## 4. Voertuigen & acties
 
-### Artikel 12 — Voertuigen mid-scenario
+### Artikel 4.1 — Voertuigen mid-scenario
 
 Tijdens een scenario mag je nooit een nieuw voertuig uit de garage pakken.  
 Je mag wel voertuigen klaarzetten of afspreken dat iemand je ophaalt.
@@ -276,7 +276,7 @@ Je mag wel voertuigen klaarzetten of afspreken dat iemand je ophaalt.
 
 * * *
 
-### Artikel 13 — Landen helikopter/vliegtuig
+### Artikel 4.2 — Landen helikopter/vliegtuig
 
 Landen is verplicht op helipad/landingsbaan/parkeerplaats en minimaal **50 meter** van andere burgers.
 
@@ -284,7 +284,7 @@ Landen is verplicht op helipad/landingsbaan/parkeerplaats en minimaal **50 meter
 
 * * *
 
-### Artikel 14 — Overheidsvoertuigen / greenzone stelen
+### Artikel 4.3 — Overheidsvoertuigen / greenzone stelen
 
 - Overheidsvoertuig stelen/besturen als burger is verboden (ook met lightbars), tenzij dit gericht is op roleplay.
 - Voertuigen van burgers stelen in de greenzone is niet toegestaan.
@@ -293,7 +293,7 @@ Landen is verplicht op helipad/landingsbaan/parkeerplaats en minimaal **50 meter
 
 * * *
 
-### Artikel 15.1 — Realistisch pitten
+### Artikel 4.4 — Realistisch pitten
 
 - Pitten tot max **100 km/u** is toegestaan.
 - Pit = tik tegen linker/rechter achterzijde met jouw linker/rechter voorzijde.
@@ -309,7 +309,7 @@ Landen is verplicht op helipad/landingsbaan/parkeerplaats en minimaal **50 meter
 
 * * *
 
-### Artikel 15.2 — Combatloggen
+### Artikel 4.5 — Combatloggen
 
 Uitloggen tijdens een scenario is verboden.
 
@@ -323,7 +323,7 @@ Uitloggen tijdens een scenario is verboden.
 
 * * *
 
-### Artikel 16 — Greenzone vluchten/campen
+### Artikel 4.6 — Greenzone vluchten/campen
 
 Achtervolgen en vluchten naar greenzones is niet toegestaan.
 
@@ -334,9 +334,9 @@ Achtervolgen en vluchten naar greenzones is niet toegestaan.
 
 ---
 
-## Informatie-misbruik & cheats
+## 5. Informatie-misbruik & cheats
 
-### Artikel 17.1 — Metagamen
+### Artikel 5.1 — Metagamen
 
 OOC-informatie gebruiken voor voordeel in-game is verboden.  
 In een call zitten met vrienden die in de stad aanwezig zijn is ook verboden.
@@ -348,7 +348,7 @@ In een call zitten met vrienden die in de stad aanwezig zijn is ook verboden.
 
 * * *
 
-### Artikel 17.2 — Stream snipen
+### Artikel 5.2 — Stream snipen
 
 Informatie uit een stream gebruiken = misbruik van OOC-informatie.
 
@@ -359,7 +359,7 @@ Informatie uit een stream gebruiken = misbruik van OOC-informatie.
 
 * * *
 
-### Artikel 18.1 — Stemherkenning/vervorming
+### Artikel 5.3 — Stemherkenning/vervorming
 
 - Iemand herkennen aan stem terwijl diegene gemaskerd is mag je niet gebruiken.
 - Alleen herkennen als iemand zelf aangeeft die persoon te zijn.
@@ -372,7 +372,7 @@ Informatie uit een stream gebruiken = misbruik van OOC-informatie.
 
 * * *
 
-### Artikel 18.2 — Lichte exploits / bug abuse
+### Artikel 5.4 — Lichte exploits / bug abuse
 
 Software die voordeel geeft is verboden (behalve crosshair).
 
@@ -387,7 +387,7 @@ Voorbeelden:
 
 * * *
 
-### Artikel 18.3 — Zware exploits/bug abuse/duplicaten
+### Artikel 5.5 — Zware exploits / bug abuse / duplicaten
 
 Zo ernstig dat iemand er veel voordeel uit haalt of dat er economische schade ontstaat.
 
@@ -395,7 +395,7 @@ Zo ernstig dat iemand er veel voordeel uit haalt of dat er economische schade on
 
 * * *
 
-### Artikel 19 — Hacken/cheaten/spoofen
+### Artikel 5.6 — Hacken / cheaten / spoofen
 
 Hacks/cheats (FiveM/GTA) zijn strikt verboden. Bij verdenking kan staff een PC-check uitvoeren.
 
@@ -415,7 +415,7 @@ Hacks/cheats (FiveM/GTA) zijn strikt verboden. Bij verdenking kan staff een PC-c
 
 * * *
 
-### Artikel 20 — IRL Trading
+### Artikel 5.7 — IRL Trading
 
 Met echt geld in-game goederen kopen/verkopen is verboden (o.a. auto’s/items).  
 Aankopen moeten via de donatiewinkel.
@@ -425,7 +425,7 @@ Aankopen moeten via de donatiewinkel.
 
 * * *
 
-### Artikel 21 — Adresgegevens leaken/booten/DDOS’en
+### Artikel 5.8 — Adresgegevens leaken / booten / DDOS’en
 
 Bewijs moet **LIVE** zichtbaar zijn via scherm delen in de **Discord app**.  
 Screenshots of Discord in browser zijn geen geldig bewijs.
@@ -434,8 +434,9 @@ Screenshots of Discord in browser zijn geen geldig bewijs.
 
 ---
 
+## 6. Overig (zware overtredingen & community)
 
-### Artikel 26 — Bedreigingen
+### Artikel 6.1 — Bedreigingen
 
 Ernstige opruiing of afspraken met meerdere mensen om iemand op te zoeken wordt gezien als ernstig.  
 Ook hier: bewijs moet **LIVE** zichtbaar zijn in de Discord app (geen browser/screenshot).
@@ -444,7 +445,7 @@ Ook hier: bewijs moet **LIVE** zichtbaar zijn in de Discord app (geen browser/sc
 
 * * *
 
-### Artikel 27 — Negative content
+### Artikel 6.2 — Negative content
 
 Negatieve content maken over Ryderz is niet toegestaan.
 
@@ -457,7 +458,7 @@ Negatieve content maken over Ryderz is niet toegestaan.
 
 * * *
 
-### Artikel 28.1 — Ryderz Roleplay zwart maken
+### Artikel 6.3 — Ryderz Roleplay zwart maken
 
 Ryderz (of staff) zwart maken of in slecht licht zetten is niet toegestaan.  
 Staff zwart maken valt ook onder “Disrespect naar staff”.
@@ -469,7 +470,7 @@ Staff zwart maken valt ook onder “Disrespect naar staff”.
 
 * * *
 
-### Artikel 28.2 — Vulgariteit & seksuele handelingen
+### Artikel 6.4 — Vulgariteit & seksuele handelingen
 
 Extreem vulgair/seksueel gedrag of scenario’s zijn niet toegestaan, o.a.:
 - Extreem seksueel taalgebruik
