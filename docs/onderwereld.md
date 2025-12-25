@@ -113,7 +113,9 @@ Verboden in greenzones:
 
 Overtreding = directe **gangstrike**.
 
-* * *
+---
+
+## Overvallen (Overzicht)
 
 ### 13. Overvallen — Algemene Richtlijnen
 - Overvallen moeten logisch, realistisch en RP-technisch worden opgebouwd.
@@ -131,8 +133,8 @@ Overtreding = directe **gangstrike**.
 ### 15. Eis-Systeem (Hostage Rules)
 
 #### 15.1 Basisregels
-- 1 hostage = 1 eis.
-- Maximaal **4** eisen.
+- **1 hostage = 1 eis**
+- Maximaal **4** eisen
 
 #### 15.2 Overheids-Hostage
 - Een overheidsmedewerker (Politie/ANWB/MRB/Zorg) telt als extra eis bovenop de 4.
@@ -148,26 +150,18 @@ Overtreding = directe **gangstrike**.
 
 * * *
 
-### 16. Minimale Hostage- & Wapenvereisten per Overval
+### 16. Minimale Vereisten per Overval (Politie / Hostage / Wapen)
 
-#### 16.1 Winkeloverval
-- Minimaal **1** hostage.
-- Minimaal **1** pistool of melee.
+!!! info "Let op"
+    Voldoe je niet aan de minimale eisen? Dan mag de overval **niet** doorgaan.
 
-#### 16.2 Kleine Bank
-- Minimaal **2** hostages.
-- Minimaal **1** automatic.
-- Minimaal **1** pistool.
-
-#### 16.3 Juwelier
-- Minimaal **3** hostages.
-- Minimaal **1** automatic.
-- Minimaal **1** pistool.
-
-#### 16.4 Grote Bank
-- Minimaal **4** hostages.
-- Minimaal **2** automatics.
-- Minimaal **1** pistool of melee.
+| Overval type | Min. politie | Min. hostages | Min. wapens |
+|------------|-------------:|--------------:|------------|
+| **ATM** | **1** | **1** | **1 melee** |
+| **Winkel** | **2** | **1** | **1 pistool óf 1 melee** |
+| **Kleine bank** | **4** | **2** | **1 automatic + 1 pistool** |
+| **Juwelier** | **5** | **3** | **1 automatic + 1 pistool** |
+| **Grote bank** | **7** | **4** | **2 automatics + 1 pistool óf melee** |
 
 * * *
 
