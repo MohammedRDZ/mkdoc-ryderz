@@ -157,7 +157,7 @@ Overtreding = directe **gangstrike**.
 
 | Overval type | Min. politie | Min. hostages | Min. wapens |
 |------------|-------------:|--------------:|------------|
-| **ATM** | **1** | **1** | **1 melee** |**(hit&run)**
+| **ATM** | **1** | **0** | **1 melee(hit&run)**
 | **Winkel** | **2** | **1** | **1 pistool óf 1 melee** |
 | **Kleine bank** | **4** | **2** | **1 automatic + 1 pistool** |
 | **Juwelier** | **5** | **3** | **1 automatic + 1 pistool** |
