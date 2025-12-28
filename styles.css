@@ -1,0 +1,4 @@
+/* Verberg rechter header-blok volledig */
+.md-header__brand {
+    display: none !important;
+}
